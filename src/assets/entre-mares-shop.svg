@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700"><rect width="900" height="700" fill="#e7dfd5"/><rect x="76" y="86" width="748" height="470" rx="12" fill="#fbfaf7"/><path d="M146 178h604" stroke="#18211f" stroke-width="14" stroke-linecap="round"/><path d="M226 178v292M450 178v292M674 178v292" stroke="#18211f" stroke-width="8" stroke-linecap="round"/><path d="M282 198c-36 84-56 150-50 238h148c6-88-14-154-50-238z" fill="#0d514f"/><path d="M504 214c-48 58-74 128-74 222h170c0-94-28-164-76-222z" fill="#d96d4d"/><path d="M662 226c-28 64-44 118-38 210h120c6-92-10-146-38-210z" fill="#7d7860"/><rect x="144" y="492" width="612" height="48" fill="#18211f"/><text x="132" y="632" font-family="Georgia,serif" font-size="44" fill="#18211f">Saiz de Carlos 33 · Peniscola</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="t d">
+  <title id="t">Entre Mares coastal shop postcard</title>
+  <desc id="d">Mediterranean postcard with map line, sun, waves, shop window and folded apparel blocks.</desc>
+  <rect width="900" height="700" fill="#eef7f8"/>
+  <rect x="78" y="74" width="744" height="520" rx="18" fill="#fffdf8" stroke="#d2e6e8" stroke-width="5"/>
+  <path d="M134 424c64-34 128-34 192 0s128 34 192 0 128-34 248 0v86H134z" fill="#2d7180"/>
+  <path d="M134 460c64-28 128-28 192 0s128 28 192 0 128-28 248 0" fill="none" stroke="#fffdf8" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="704" cy="158" r="54" fill="#e66c4f"/>
+  <path d="M188 164c98 34 164 84 198 150 44-62 104-98 180-108" fill="none" stroke="#17272b" stroke-width="9" stroke-linecap="round"/>
+  <rect x="168" y="238" width="168" height="118" rx="10" fill="#dcecef" stroke="#17272b" stroke-width="6"/>
+  <rect x="378" y="286" width="142" height="70" rx="8" fill="#f5dccf" stroke="#17272b" stroke-width="6"/>
+  <rect x="560" y="246" width="122" height="110" rx="8" fill="#7d806a" stroke="#17272b" stroke-width="6"/>
+  <text x="132" y="644" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="700" fill="#17272b">Postal de tienda mediterranea</text>
+</svg>
