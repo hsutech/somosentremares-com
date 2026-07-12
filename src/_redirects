@@ -1,9 +1,2 @@
-/about/ /sobre-nosotras/ 301
-/contact/ /contacto/ 301
-/politica-de-privacidad/ /privacy-policy/ 301
-/politica-de-cookies/ /privacy-policy/ 301
-/carrito/ /tienda/ 301
-/cart/ /tienda/ 301
-/checkout/ /contacto/ 301
-/index.html / 301
+/categoria-producto/* /categoria-producto/:splat 301
 /* /404/ 404
