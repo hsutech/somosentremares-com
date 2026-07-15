@@ -1,0 +1,51 @@
+{
+  "domain": "somosentremares.com",
+  "automation_id": "art-culo-diario-somosentremares-com",
+  "last_run_date": "2026-07-15",
+  "items": [
+    {
+      "keyword": "mejores regalos originales de Peñíscola",
+      "priority": "Alta",
+      "slug": "mejores-regalos-originales-peniscola",
+      "title": "Mejores regalos originales de Peñíscola",
+      "url": "https://somosentremares.com/blog/mejores-regalos-originales-peniscola/",
+      "status": "draft_ready",
+      "selected_at": "2026-07-15",
+      "serp_target": "Google ES / Peñíscola y Castellón",
+      "serp_observations": {
+        "intent": "Comercial con apoyo turístico/local: el usuario quiere ideas concretas para comprar un regalo o recuerdo menos genérico en Peñíscola.",
+        "page_types": [
+          "Listicles de regalos para viajeros con selección amplia, tabla o FAQs y enfoque práctico.",
+          "Páginas oficiales de turismo/compras de Peñíscola que validan oferta local de moda, accesorios, artesanía y producto local.",
+          "Fuentes informativas sobre recuerdo de viaje y patrimonio local para contextualizar el valor del souvenir."
+        ],
+        "coverage_patterns": [
+          "Las guías de regalos priorizan utilidad, facilidad de transporte, personalización, imágenes de producto y FAQs.",
+          "Las páginas turísticas cubren compras, moda, complementos, artesanía, producto local, mercado semanal y patrimonio.",
+          "Hay poca cobertura específica que mezcle compra local de Peñíscola con criterio BOFU, comparativa y consejos de transporte."
+        ],
+        "content_decision": "Crear listicle BOFU de 10 ideas, 1.300-2.400 palabras, con respuesta directa, tabla comparativa, enlaces internos a categorías reales, fuentes externas y FAQs."
+      },
+      "sources": [
+        "https://peniscola.es/prepara-tu-viaje/compras-en-peniscola/",
+        "https://elpais.com/escaparate/estilo-de-vida/2025-12-11/regalos-para-viajeros.html",
+        "https://cadenaser.com/comunitat-valenciana/2025/06/20/la-diputacion-de-castellon-culmina-el-plan-director-del-castillo-de-peniscola-radio-castellon/",
+        "https://es.wikipedia.org/wiki/Recuerdo_de_viaje",
+        "https://peniscola.es/en/prepare-your-trip/shopping-in-peniscola/"
+      ],
+      "internal_links": [
+        "/tienda/",
+        "/categoria-producto/camisetas/",
+        "/categoria-producto/sudaderas/",
+        "/categoria-producto/accesorios/",
+        "/contacto/"
+      ],
+      "featured_image": "/assets/regalos-originales-peniscola.jpg",
+      "verification": {
+        "build": null,
+        "local_render": null,
+        "live": null
+      }
+    }
+  ]
+}
