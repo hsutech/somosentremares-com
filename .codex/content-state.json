@@ -9,8 +9,10 @@
       "slug": "mejores-regalos-originales-peniscola",
       "title": "Mejores regalos originales de Peñíscola",
       "url": "https://www.somosentremares.com/blog/mejores-regalos-originales-peniscola/",
-      "status": "draft_ready",
+      "status": "published",
       "selected_at": "2026-07-15",
+      "published_at": "2026-07-15",
+      "commit_sha": "ae6143c25b7cdba315158858d4868bbe7433cdc9",
       "serp_target": "Google ES / Peñíscola y Castellón",
       "serp_observations": {
         "intent": "Comercial con apoyo turístico/local: el usuario quiere ideas concretas para comprar un regalo o recuerdo menos genérico en Peñíscola.",
@@ -42,9 +44,21 @@
       ],
       "featured_image": "/assets/regalos-originales-peniscola.jpg",
       "verification": {
-        "build": null,
-        "local_render": null,
-        "live": null
+        "build": "npm run build passed locally; GitHub Actions deploy passed",
+        "local_render": "Desktop and mobile local render passed: H1, canonical, image, no overflow and no console errors",
+        "live": {
+          "status": "verified",
+          "checked_at": "2026-07-15T16:11:00Z",
+          "url": "https://www.somosentremares.com/blog/mejores-regalos-originales-peniscola/",
+          "http_status": 200,
+          "h1": "Mejores regalos originales de Peñíscola: 10 ideas para acertar sin caer en el souvenir genérico",
+          "canonical": "https://www.somosentremares.com/blog/mejores-regalos-originales-peniscola/",
+          "featured_image": "https://www.somosentremares.com/assets/regalos-originales-peniscola.jpg",
+          "blog_index": true,
+          "sitemap": true,
+          "desktop_render": true,
+          "mobile_render": true
+        }
       }
     }
   ]
