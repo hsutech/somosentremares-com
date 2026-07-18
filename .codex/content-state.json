@@ -1,7 +1,7 @@
 {
   "domain": "somosentremares.com",
   "automation_id": "art-culo-diario-somosentremares-com",
-  "last_run_date": "2026-07-15",
+  "last_run_date": "2026-07-18",
   "items": [
     {
       "keyword": "mejores regalos originales de Peñíscola",
@@ -54,6 +54,63 @@
           "h1": "Mejores regalos originales de Peñíscola: 10 ideas para acertar sin caer en el souvenir genérico",
           "canonical": "https://www.somosentremares.com/blog/mejores-regalos-originales-peniscola/",
           "featured_image": "https://www.somosentremares.com/assets/regalos-originales-peniscola.jpg",
+          "blog_index": true,
+          "sitemap": true,
+          "desktop_render": true,
+          "mobile_render": true
+        }
+      }
+    },
+    {
+      "keyword": "mejores souvenirs de Peñíscola",
+      "priority": "Alta",
+      "slug": "mejores-souvenirs-peniscola",
+      "title": "Mejores souvenirs de Peñíscola",
+      "url": "https://www.somosentremares.com/blog/mejores-souvenirs-peniscola/",
+      "status": "published",
+      "selected_at": "2026-07-18",
+      "published_at": "2026-07-18",
+      "commit_sha": "c0494cde485291335018803441c50e8b995a0355",
+      "serp_target": "Google ES / Peñíscola y Castellón",
+      "serp_observations": {
+        "intent": "Comercial local BOFU: el usuario quiere comprar recuerdos de Peñíscola y comparar opciones útiles, transportables y menos genéricas.",
+        "page_types": [
+          "Páginas oficiales de turismo/compras que validan zonas comerciales, mercado semanal, moda, complementos, artesanía y producto local.",
+          "Directorios locales y generalistas de tiendas/regalos que satisfacen intención de localización, pero aportan poca guía editorial.",
+          "Páginas de patrimonio/turismo que contextualizan entidades locales como el casco antiguo y el Castillo del Papa Luna."
+        ],
+        "coverage_patterns": [
+          "La SERP cubre dónde comprar, pero apenas explica qué souvenir elegir según uso, transporte, materiales o destinatario.",
+          "Los resultados relevantes mezclan tiendas, directorios y turismo; no hay una guía BOFU fuerte con comparativa y criterios de calidad.",
+          "Existe canibalización potencial con regalos originales, resuelta orientando este artículo a recuerdos personales de viaje y enlazando el artículo de regalos como intención secundaria."
+        ],
+        "content_decision": "Crear listicle BOFU de 10 souvenirs, 1.900 palabras, con respuesta directa, tabla comparativa, criterios de compra, FAQs, enlaces internos reales y 4 fuentes externas."
+      },
+      "sources": [
+        "https://peniscola.es/prepara-tu-viaje/compras-en-peniscola/",
+        "https://www.todopeniscola.com/tiendas-peniscola",
+        "https://www.paginasamarillas.es/a/tiendas-de-regalos/castellon/pe%C3%B1iscola/",
+        "https://www.comunitatvalenciana.com/es/castello-castellon/peniscola-peniscola/monumentos/conjunto-historico-artistico-de-la-ciudad"
+      ],
+      "internal_links": [
+        "/blog/mejores-regalos-originales-peniscola/",
+        "/categoria-producto/camisetas/",
+        "/categoria-producto/accesorios/",
+        "/tienda/",
+        "/contacto/"
+      ],
+      "featured_image": "/assets/mejores-souvenirs-peniscola.jpg",
+      "verification": {
+        "build": "npm run build passed locally after npm ci refreshed local node_modules; no package files changed",
+        "local_render": "Static dist HTTP verification passed: article 200, image 200, H1, canonical, blog index and sitemap present",
+        "live": {
+          "status": "verified",
+          "checked_at": "2026-07-18T15:00:00Z",
+          "url": "https://www.somosentremares.com/blog/mejores-souvenirs-peniscola/",
+          "http_status": 200,
+          "h1": "Mejores souvenirs de Peñíscola: 10 recuerdos que sí merece la pena llevarse",
+          "canonical": "https://www.somosentremares.com/blog/mejores-souvenirs-peniscola/",
+          "featured_image": "https://www.somosentremares.com/assets/mejores-souvenirs-peniscola.jpg",
           "blog_index": true,
           "sitemap": true,
           "desktop_render": true,
