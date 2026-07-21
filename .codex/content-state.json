@@ -179,9 +179,11 @@
       "slug": "mejores-sudaderas-diseno-costero",
       "title": "Mejores sudaderas de diseño costero",
       "url": "https://www.somosentremares.com/blog/mejores-sudaderas-diseno-costero/",
-      "status": "pushed_unverified",
+      "status": "published",
       "selected_at": "2026-07-21",
       "pushed_at": "2026-07-21",
+      "published_at": "2026-07-21",
+      "commit_sha": "227fb246a24175f7e39dae8320418a51379b1bea",
       "serp_target": "Google ES / Peñíscola y Castellón",
       "serp_observations": {
         "intent": "Comercial BOFU: comparar sudaderas de diseño costero por abrigo, tejido, corte, capucha, gramaje, estilo, sostenibilidad verificable y compra local.",
@@ -219,9 +221,18 @@
         "build": "npm run build passed locally on 2026-07-21.",
         "local_render": "Local dist verification passed: article 200, image 200, H1, canonical, OG image, Article schema, FAQ schema, blog index, home index and sitemap present. In-app browser viewport checks passed desktop/mobile with matching scrollWidth/clientWidth and no console errors.",
         "live": {
-          "status": "pushed_unverified",
+          "status": "verified",
+          "checked_at": "2026-07-21T16:00:37Z",
           "url": "https://www.somosentremares.com/blog/mejores-sudaderas-diseno-costero/",
-          "reason": "Awaiting push and Cloudflare custom-domain verification."
+          "http_status": 200,
+          "h1": "Mejores sudaderas de diseño costero: 7 estilos para comprar con criterio",
+          "canonical": "https://www.somosentremares.com/blog/mejores-sudaderas-diseno-costero/",
+          "featured_image": "https://www.somosentremares.com/assets/mejores-sudaderas-diseno-costero.jpg",
+          "blog_index": true,
+          "home_index": true,
+          "sitemap": true,
+          "desktop_render": true,
+          "mobile_render": true
         }
       }
     }
