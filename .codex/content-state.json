@@ -1,7 +1,7 @@
 {
   "domain": "somosentremares.com",
   "automation_id": "art-culo-diario-somosentremares-com",
-  "last_run_date": "2026-07-20",
+  "last_run_date": "2026-07-21",
   "items": [
     {
       "keyword": "mejores regalos originales de Peñíscola",
@@ -124,9 +124,10 @@
       "slug": "mejores-camisetas-diseno-mediterraneo",
       "title": "Mejores camisetas de diseño mediterráneo",
       "url": "https://www.somosentremares.com/blog/mejores-camisetas-diseno-mediterraneo/",
-      "status": "pushed_unverified",
+      "status": "published",
       "selected_at": "2026-07-20",
       "pushed_at": "2026-07-20",
+      "published_at": "2026-07-20",
       "commit_sha": "48c77cbf3eb920ff69464a4fa28ba4e15fbbdd72",
       "serp_target": "Google ES / Peñíscola y Castellón",
       "serp_observations": {
@@ -158,12 +159,69 @@
       ],
       "featured_image": "/assets/mejores-camisetas-diseno-mediterraneo.jpg",
       "verification": {
-        "build": "Not rerun in this closing step due user instruction to finalize immediately; previous working tree is clean at article commit.",
+        "build": "Article was already present in deployed commit; live reconciliation completed on 2026-07-20.",
+        "live": {
+          "status": "verified",
+          "checked_at": "2026-07-20T15:48:05Z",
+          "url": "https://www.somosentremares.com/blog/mejores-camisetas-diseno-mediterraneo/",
+          "http_status": 200,
+          "h1": "Mejores camisetas de diseño mediterráneo: 7 estilos para comprar con criterio",
+          "canonical": "https://www.somosentremares.com/blog/mejores-camisetas-diseno-mediterraneo/",
+          "featured_image": "https://www.somosentremares.com/assets/mejores-camisetas-diseno-mediterraneo.jpg",
+          "blog_index": true,
+          "sitemap": true
+        }
+      }
+    },
+    {
+      "keyword": "mejores sudaderas de diseño costero",
+      "priority": "Alta",
+      "slug": "mejores-sudaderas-diseno-costero",
+      "title": "Mejores sudaderas de diseño costero",
+      "url": "https://www.somosentremares.com/blog/mejores-sudaderas-diseno-costero/",
+      "status": "pushed_unverified",
+      "selected_at": "2026-07-21",
+      "pushed_at": "2026-07-21",
+      "serp_target": "Google ES / Peñíscola y Castellón",
+      "serp_observations": {
+        "intent": "Comercial BOFU: comparar sudaderas de diseño costero por abrigo, tejido, corte, capucha, gramaje, estilo, sostenibilidad verificable y compra local.",
+        "page_types": [
+          "Colecciones y fichas de producto de marcas costeras/surferas con tallas, composición, precios y envíos.",
+          "Marketplaces y catálogos con filtros de estilo náutico, capucha, tejido, color y rango de precio.",
+          "Páginas de marca de moda mediterránea o atlántica que priorizan identidad, sostenibilidad y diseño local más que comparativas editoriales."
+        ],
+        "coverage_patterns": [
+          "Los resultados actuales son mayoritariamente transaccionales; apenas hay guías editoriales tipo mejores 7/10 para decidir por uso real.",
+          "Las páginas mejor alineadas cubren material, fit, talla, envíos, inspiración costera y cuidados, pero no comparan estilos ni explican gramaje, capucha o volumen para clima mediterráneo.",
+          "La canibalización con camisetas mediterráneas queda resuelta porque esta pieza se centra en abrigo, peso, interior, capucha, caída y noches de costa."
+        ],
+        "content_decision": "Publicar listicle BOFU de 7 estilos, 1.800-2.300 palabras, con respuesta directa, tabla comparativa, criterios de compra, 4 enlaces internos editoriales, 4 fuentes externas, FAQPage y mención contextual a Somos Entre Mares."
+      },
+      "sources": [
+        "https://www.awol.es/",
+        "https://www.zazzle.es/dise%C3%B1os%2Bn%C3%A1uticos%2Bsudaderas",
+        "https://nomad-coast.com/collections/sudaderas",
+        "https://www.baterabrand.com/",
+        "https://nadadenada.shop/colecciones/origin/",
+        "https://peniscola.es/prepara-tu-viaje/compras-en-peniscola/",
+        "https://www.ocu.org/consumo-familia/consumo-colaborativo/informe/moda-sostenible",
+        "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+        "https://www.oeko-tex.com/en/our-standards"
+      ],
+      "internal_links": [
+        "/blog/mejores-camisetas-diseno-mediterraneo/",
+        "/categoria-producto/sudaderas/",
+        "/tienda/",
+        "/blog/mejores-souvenirs-peniscola/"
+      ],
+      "featured_image": "/assets/mejores-sudaderas-diseno-costero.jpg",
+      "verification": {
+        "build": "npm run build passed locally on 2026-07-21.",
+        "local_render": "Local dist verification passed: article 200, image 200, H1, canonical, OG image, Article schema, FAQ schema, blog index, home index and sitemap present. In-app browser viewport checks passed desktop/mobile with matching scrollWidth/clientWidth and no console errors.",
         "live": {
           "status": "pushed_unverified",
-          "checked_at": "2026-07-20T13:26:35Z",
-          "url": "https://www.somosentremares.com/blog/mejores-camisetas-diseno-mediterraneo/",
-          "reason": "Network/deployment/custom-domain verification stopped by explicit user instruction; earlier git fetch failed with DNS resolution for github.com."
+          "url": "https://www.somosentremares.com/blog/mejores-sudaderas-diseno-costero/",
+          "reason": "Awaiting push and Cloudflare custom-domain verification."
         }
       }
     }

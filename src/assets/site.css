@@ -111,10 +111,17 @@ p { margin: 0 0 16px; color: var(--muted); }
   .footer-grid { grid-template-columns: 1fr 1fr; }
 }
 @media (max-width: 620px) {
+  body { overflow-x: hidden; }
   .container-page, .article-shell { width: min(100% - 28px, 1160px); }
+  .site-header-inner, .nav-primary, .article, .article-header, .article-content { min-width: 0; }
   .brand span { display: none; }
+  .nav-primary { max-width: 100%; }
   .nav-primary a { padding-inline: 12px; white-space: nowrap; }
   .page-hero { padding-top: 38px; }
   h1 { font-size: 42px; }
+  .article-header h1 { font-size: 28px; line-height: 1.16; }
+  .article-header > p, .article-content p { font-size: 17px; }
+  .article-content h2 { font-size: 24px; }
+  .article-content h3 { font-size: 21px; }
   .footer-grid { grid-template-columns: 1fr; }
 }
