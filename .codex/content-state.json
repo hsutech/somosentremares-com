@@ -287,6 +287,60 @@
           "url": "https://www.somosentremares.com/blog/calzado-caminar-peniscola/"
         }
       }
+    },
+    {
+      "keyword": "mejores marcas de ropa inspirada en el mar",
+      "priority": "Alta",
+      "slug": "mejores-marcas-ropa-inspirada-mar",
+      "title": "Mejores marcas de ropa inspirada en el mar",
+      "url": "https://www.somosentremares.com/blog/mejores-marcas-ropa-inspirada-mar/",
+      "status": "published_pending_deploy",
+      "selected_at": "2026-07-24",
+      "pushed_at": null,
+      "published_at": "2026-07-24",
+      "commit_sha": null,
+      "serp_target": "Google ES / Peñíscola y Castellón",
+      "serp_observations": {
+        "intent": "Comercial BOFU: comparar marcas y enfoques de ropa inspirada en el mar antes de elegir camiseta, sudadera, beachwear, prenda artesanal o marca local.",
+        "page_types": [
+          "Homepages y tiendas online de marcas con inspiración marina, oceánica, náutica, atlántica o mediterránea.",
+          "Colecciones ecommerce con fichas de producto, precios, tallas, reviews, imágenes y políticas de envío o cambio.",
+          "Reportajes editoriales y casos de marca que contextualizan sostenibilidad, producción local, autoría y origen costero."
+        ],
+        "coverage_patterns": [
+          "La SERP satisface bien descubrimiento de marcas, pero apenas compara enfoques por uso real, materiales, tallaje, cambios y compra local.",
+          "Los primeros resultados relevantes incluyen DMAR, Behooks, Born to the Ocean, Amodia/Portelo, Mar Viva, Saint James/La Paz y resultados editoriales de moda.",
+          "La canibalización con camisetas y sudaderas se evita al orientar este artículo a marcas/enfoques, no a una prenda concreta."
+        ],
+        "content_decision": "Publicar listicle BOFU de 7 enfoques, 2.100 palabras, con respuesta directa, tabla comparativa, criterios de compra, enlaces internos reales, fuentes externas, Article/Breadcrumb schema y FAQPage visible."
+      },
+      "sources": [
+        "https://dmarclothing.com/",
+        "https://www.borntotheocean.com/tienda",
+        "https://amodia.es/",
+        "https://www.spri.eus/es/blog/emprendimiento/mar-viva-es-vital-tomar-conciencia-de-lo-importante-que-es-consumir-de-una-forma-sostenible/",
+        "https://www.ocu.org/consumo-familia/consumo-colaborativo/informe/moda-sostenible",
+        "https://peniscola.es/prepara-tu-viaje/compras-en-peniscola/"
+      ],
+      "internal_links": [
+        "/blog/mejores-camisetas-diseno-mediterraneo/",
+        "/blog/mejores-sudaderas-diseno-costero/",
+        "/tienda/",
+        "/categoria-producto/camisetas/",
+        "/categoria-producto/sudaderas/",
+        "/categoria-producto/accesorios/",
+        "/blog/mejores-souvenirs-peniscola/"
+      ],
+      "featured_image": "/assets/mejores-marcas-ropa-inspirada-mar.jpg",
+      "verification": {
+        "build": "npm run build passed locally on 2026-07-24.",
+        "local_render": "Local dist and HTTP verification passed on 2026-07-24: 2182 article words; article and image returned 200; H1, canonical, OG image, Article schema, Breadcrumb schema, FAQ schema, home/blog index and sitemap present. In-app browser viewport checks passed desktop/mobile with no horizontal overflow and no console errors.",
+        "live": {
+          "status": "pending",
+          "checked_at": null,
+          "url": "https://www.somosentremares.com/blog/mejores-marcas-ropa-inspirada-mar/"
+        }
+      }
     }
   ]
 }
