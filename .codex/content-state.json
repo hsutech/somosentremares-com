@@ -1,7 +1,7 @@
 {
   "domain": "somosentremares.com",
   "automation_id": "art-culo-diario-somosentremares-com",
-  "last_run_date": "2026-07-21",
+  "last_run_date": "2026-07-24",
   "items": [
     {
       "keyword": "mejores regalos originales de Peñíscola",
@@ -244,11 +244,11 @@
       "slug": "calzado-caminar-peniscola",
       "title": "Qué calzado llevar para caminar por Peñíscola: 7 opciones cómodas",
       "url": "https://www.somosentremares.com/blog/calzado-caminar-peniscola/",
-      "status": "published_pending_deploy",
+      "status": "published",
       "selected_at": "2026-07-24",
-      "pushed_at": null,
+      "pushed_at": "2026-07-24",
       "published_at": "2026-07-24",
-      "commit_sha": null,
+      "commit_sha": "66f266fc338ccc51f90d3f001ba7f92032e89306",
       "serp_target": "Google ES / Peñíscola y Castellón",
       "serp_observations": {
         "intent": "Práctica y comercial-informativa: elegir calzado cómodo para caminar por Peñíscola según casco antiguo, playa, paseo marítimo, calor y rutas cercanas.",
@@ -282,9 +282,15 @@
         "build": "PATH=/Users/erikhsu/Documents/somosentremares-com/node_modules/.bin:$PATH npm run build passed locally on 2026-07-24.",
         "local_render": "Local dist and HTTP verification passed on 2026-07-24: 2144 article words; article, image, home, blog and sitemap returned 200; H1, canonical, image/jpeg, Article schema, Breadcrumb schema, FAQ schema, exact Lejan anchor once, home/blog index and sitemap present.",
         "live": {
-          "status": "pending",
-          "checked_at": null,
-          "url": "https://www.somosentremares.com/blog/calzado-caminar-peniscola/"
+          "status": "verified",
+          "checked_at": "2026-07-24T16:04:30Z",
+          "url": "https://www.somosentremares.com/blog/calzado-caminar-peniscola/",
+          "http_status": 200,
+          "h1": "Qué calzado llevar para caminar por Peñíscola: 7 opciones cómodas",
+          "canonical": "https://www.somosentremares.com/blog/calzado-caminar-peniscola/",
+          "featured_image": "https://www.somosentremares.com/assets/calzado-caminar-peniscola.jpg",
+          "blog_index": true,
+          "sitemap": true
         }
       }
     },
@@ -294,11 +300,11 @@
       "slug": "mejores-marcas-ropa-inspirada-mar",
       "title": "Mejores marcas de ropa inspirada en el mar",
       "url": "https://www.somosentremares.com/blog/mejores-marcas-ropa-inspirada-mar/",
-      "status": "published_pending_deploy",
+      "status": "published",
       "selected_at": "2026-07-24",
-      "pushed_at": null,
+      "pushed_at": "2026-07-24",
       "published_at": "2026-07-24",
-      "commit_sha": null,
+      "commit_sha": "4f7452f65fe792169a5a4c22d0b15825848e70b5",
       "serp_target": "Google ES / Peñíscola y Castellón",
       "serp_observations": {
         "intent": "Comercial BOFU: comparar marcas y enfoques de ropa inspirada en el mar antes de elegir camiseta, sudadera, beachwear, prenda artesanal o marca local.",
@@ -336,9 +342,18 @@
         "build": "npm run build passed locally on 2026-07-24.",
         "local_render": "Local dist and HTTP verification passed on 2026-07-24: 2182 article words; article and image returned 200; H1, canonical, OG image, Article schema, Breadcrumb schema, FAQ schema, home/blog index and sitemap present. In-app browser viewport checks passed desktop/mobile with no horizontal overflow and no console errors.",
         "live": {
-          "status": "pending",
-          "checked_at": null,
-          "url": "https://www.somosentremares.com/blog/mejores-marcas-ropa-inspirada-mar/"
+          "status": "verified",
+          "checked_at": "2026-07-24T16:04:02Z",
+          "url": "https://www.somosentremares.com/blog/mejores-marcas-ropa-inspirada-mar/",
+          "http_status": 200,
+          "h1": "Mejores marcas de ropa inspirada en el mar: 7 enfoques para comprar con criterio",
+          "canonical": "https://www.somosentremares.com/blog/mejores-marcas-ropa-inspirada-mar/",
+          "featured_image": "https://www.somosentremares.com/assets/mejores-marcas-ropa-inspirada-mar.jpg",
+          "blog_index": true,
+          "home_index": true,
+          "sitemap": true,
+          "desktop_render": true,
+          "mobile_render": true
         }
       }
     }
