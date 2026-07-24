@@ -235,6 +235,58 @@
           "mobile_render": true
         }
       }
+    },
+    {
+      "keyword": "Qué calzado llevar para caminar por Peñíscola: 7 opciones cómodas",
+      "priority": "Extra campaign",
+      "campaign": "extra-lejan",
+      "automation_id": "extra-lejan-somosentremares-com",
+      "slug": "calzado-caminar-peniscola",
+      "title": "Qué calzado llevar para caminar por Peñíscola: 7 opciones cómodas",
+      "url": "https://www.somosentremares.com/blog/calzado-caminar-peniscola/",
+      "status": "published_pending_deploy",
+      "selected_at": "2026-07-24",
+      "pushed_at": null,
+      "published_at": "2026-07-24",
+      "commit_sha": null,
+      "serp_target": "Google ES / Peñíscola y Castellón",
+      "serp_observations": {
+        "intent": "Práctica y comercial-informativa: elegir calzado cómodo para caminar por Peñíscola según casco antiguo, playa, paseo marítimo, calor y rutas cercanas.",
+        "page_types": [
+          "Resultados actuales sobre rutas, playas y turismo de Peñíscola, con poca cobertura específica de calzado.",
+          "Guías generales de calzado cómodo, zapatillas de walking, sandalias de marcha y opciones barefoot.",
+          "Páginas oficiales de marcas y fuentes sanitarias o turísticas para contrastar afirmaciones concretas."
+        ],
+        "coverage_patterns": [
+          "La SERP no ofrece una guía local completa que conecte superficies de Peñíscola con tipos de calzado.",
+          "El contenido existente del sitio cubre prendas, souvenirs y rutas; la canibalización se evita al centrar este artículo en pies, agarre, calor, adaptación y superficies.",
+          "Lejan aparece solo como una opción barefoot editorialmente justificada, sin declarar ganador absoluto ni reseña de primera mano."
+        ],
+        "content_decision": "Publicar guía BOFU-informativa de 7 opciones, 1.300-2.400 palabras, con respuesta directa, tabla comparativa, fuentes externas, enlaces internos, Article/Breadcrumb schema y FAQPage visible."
+      },
+      "sources": [
+        "https://lejanbrand.com/",
+        "https://peniscola.es/disfruta/peniscola/playas/",
+        "https://peniscola.es/disfruta/naturaleza/rutas-senderismo/",
+        "https://cgcop.es/"
+      ],
+      "internal_links": [
+        "/blog/rutas-entre-playas/",
+        "/tienda/",
+        "/categoria-producto/accesorios/",
+        "/blog/mejores-souvenirs-peniscola/",
+        "/contacto/"
+      ],
+      "featured_image": "/assets/calzado-caminar-peniscola.jpg",
+      "verification": {
+        "build": "PATH=/Users/erikhsu/Documents/somosentremares-com/node_modules/.bin:$PATH npm run build passed locally on 2026-07-24.",
+        "local_render": "Local dist and HTTP verification passed on 2026-07-24: 2144 article words; article, image, home, blog and sitemap returned 200; H1, canonical, image/jpeg, Article schema, Breadcrumb schema, FAQ schema, exact Lejan anchor once, home/blog index and sitemap present.",
+        "live": {
+          "status": "pending",
+          "checked_at": null,
+          "url": "https://www.somosentremares.com/blog/calzado-caminar-peniscola/"
+        }
+      }
     }
   ]
 }
