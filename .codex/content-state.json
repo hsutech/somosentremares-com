@@ -1,7 +1,7 @@
 {
   "domain": "somosentremares.com",
   "automation_id": "art-culo-diario-somosentremares-com",
-  "last_run_date": "2026-07-24",
+  "last_run_date": "2026-07-25",
   "items": [
     {
       "keyword": "mejores regalos originales de Peñíscola",
@@ -354,6 +354,56 @@
           "sitemap": true,
           "desktop_render": true,
           "mobile_render": true
+        }
+      }
+    },
+    {
+      "keyword": "mejores regalos para amantes del mar",
+      "priority": "Alta",
+      "slug": "mejores-regalos-amantes-mar",
+      "title": "Mejores regalos para amantes del mar",
+      "url": "https://www.somosentremares.com/blog/mejores-regalos-amantes-mar/",
+      "status": "draft_local",
+      "selected_at": "2026-07-25",
+      "serp_target": "Google ES / Peñíscola y Castellón",
+      "serp_observations": {
+        "intent": "Comercial BOFU: elegir regalos para personas que aman el mar comparando utilidad, perfil, talla, presupuesto, experiencia y compra local.",
+        "page_types": [
+          "Guías de escuelas náuticas que proponen cursos, licencias, prácticas, salidas y tarjetas regalo.",
+          "Categorías ecommerce de regalos náuticos con accesorios para barco, navegantes, sol, agua y vida a bordo.",
+          "Guías de buceo y listicles generalistas de playa con muchas ideas, TOC, imágenes, enlaces afiliados o CTA comercial."
+        ],
+        "coverage_patterns": [
+          "Los primeros resultados cubren mucha variedad, pero suelen separar demasiado náutica, buceo, playa y ecommerce.",
+          "La SERP favorece listicles de 7-25 ideas, respuesta práctica, tabla de contenidos, imágenes y CTA comercial.",
+          "El gap editorial es una comparativa por perfil de destinatario y riesgo de fallo, con ropa y accesorios como opciones útiles sin canibalizar souvenirs de Peñíscola."
+        ],
+        "content_decision": "Publicar listicle BOFU de 10 ideas, 1.800-2.300 palabras, con respuesta directa, tabla comparativa, criterios de compra, FAQs, enlaces internos reales, 4 fuentes externas y featured image original."
+      },
+      "sources": [
+        "https://blog.escolaport.com/regalo-nautico/",
+        "https://www.svb-marine.es/es/categoria/regalos-nauticos",
+        "https://www.padi.com/es/gift-guide-for-ocean-lovers",
+        "https://www.ocu.org/consumo-familia/consumo-colaborativo/informe/moda-sostenible",
+        "https://peniscola.es/prepara-tu-viaje/compras-en-peniscola/"
+      ],
+      "internal_links": [
+        "/blog/mejores-regalos-originales-peniscola/",
+        "/blog/mejores-souvenirs-peniscola/",
+        "/blog/mejores-camisetas-diseno-mediterraneo/",
+        "/blog/mejores-sudaderas-diseno-costero/",
+        "/tienda/",
+        "/categoria-producto/camisetas/",
+        "/categoria-producto/sudaderas/",
+        "/categoria-producto/accesorios/",
+        "/contacto/"
+      ],
+      "featured_image": "/assets/mejores-regalos-amantes-mar.jpg",
+      "verification": {
+        "build": "npm run build passed locally on 2026-07-25.",
+        "local_render": "Local dist HTTP verification passed on 2026-07-25: 2224 visible words; article, image, home, blog and sitemap returned 200; H1, canonical, OG image, Article schema, Breadcrumb schema, FAQ schema, home/blog index and sitemap present; 4 external links. Playwright was not installed, so browser render was not available locally.",
+        "live": {
+          "status": "pending"
         }
       }
     }
