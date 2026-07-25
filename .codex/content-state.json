@@ -363,8 +363,11 @@
       "slug": "mejores-regalos-amantes-mar",
       "title": "Mejores regalos para amantes del mar",
       "url": "https://www.somosentremares.com/blog/mejores-regalos-amantes-mar/",
-      "status": "draft_local",
+      "status": "published",
       "selected_at": "2026-07-25",
+      "pushed_at": "2026-07-25",
+      "published_at": "2026-07-25",
+      "commit_sha": "a931606ab9b65cd2d82dfc75825c8cd07f29940f",
       "serp_target": "Google ES / Peñíscola y Castellón",
       "serp_observations": {
         "intent": "Comercial BOFU: elegir regalos para personas que aman el mar comparando utilidad, perfil, talla, presupuesto, experiencia y compra local.",
@@ -401,9 +404,20 @@
       "featured_image": "/assets/mejores-regalos-amantes-mar.jpg",
       "verification": {
         "build": "npm run build passed locally on 2026-07-25.",
-        "local_render": "Local dist HTTP verification passed on 2026-07-25: 2224 visible words; article, image, home, blog and sitemap returned 200; H1, canonical, OG image, Article schema, Breadcrumb schema, FAQ schema, home/blog index and sitemap present; 4 external links. Playwright was not installed, so browser render was not available locally.",
+        "local_render": "Local dist HTTP verification passed on 2026-07-25: 2224 visible words; article, image, home, blog and sitemap returned 200; H1, canonical, OG image, Article schema, Breadcrumb schema, FAQ schema, home/blog index and sitemap present; 4 external links.",
         "live": {
-          "status": "pending"
+          "status": "verified",
+          "checked_at": "2026-07-25T16:07:00Z",
+          "url": "https://www.somosentremares.com/blog/mejores-regalos-amantes-mar/",
+          "http_status": 200,
+          "h1": "Mejores regalos para amantes del mar: 10 ideas útiles para acertar",
+          "canonical": "https://www.somosentremares.com/blog/mejores-regalos-amantes-mar/",
+          "featured_image": "https://www.somosentremares.com/assets/mejores-regalos-amantes-mar.jpg",
+          "blog_index": true,
+          "home_index": true,
+          "sitemap": true,
+          "desktop_render": true,
+          "mobile_render": true
         }
       }
     }
