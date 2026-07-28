@@ -1,7 +1,7 @@
 {
   "domain": "somosentremares.com",
   "automation_id": "art-culo-diario-somosentremares-com",
-  "last_run_date": "2026-07-25",
+  "last_run_date": "2026-07-28",
   "items": [
     {
       "keyword": "mejores regalos originales de Peñíscola",
@@ -418,6 +418,60 @@
           "sitemap": true,
           "desktop_render": true,
           "mobile_render": true
+        }
+      }
+    },
+    {
+      "keyword": "mejores camisetas de Peñíscola",
+      "priority": "Alta",
+      "slug": "mejores-camisetas-peniscola",
+      "title": "Mejores camisetas de Peñíscola",
+      "url": "https://www.somosentremares.com/blog/mejores-camisetas-peniscola/",
+      "status": "pending_verification",
+      "selected_at": "2026-07-28",
+      "pushed_at": "",
+      "published_at": "",
+      "commit_sha": "",
+      "serp_target": "Google ES / Peñíscola y Castellón",
+      "serp_observations": {
+        "intent": "Comercial BOFU local: encontrar camisetas de Peñíscola para comprar como recuerdo, regalo o prenda de verano, comparando diseño, tejido, talla, tienda y utilidad real.",
+        "page_types": [
+          "Turismo oficial y directorios locales de compras, moda y regalos en Peñíscola.",
+          "Marketplaces con diseños de Peñíscola, Castellón, Costa del Azahar, playa, castillo y camisetas de viaje.",
+          "Páginas de tiendas locales y listados de artículos de regalo que satisfacen ubicación y disponibilidad más que criterio editorial."
+        ],
+        "coverage_patterns": [
+          "La SERP muestra oferta y ubicaciones, pero poca comparación editorial específica para camisetas de Peñíscola.",
+          "Los resultados relevantes cubren moda, complementos, artesanía, mercado semanal, tiendas de regalos, souvenirs y productos creados por artistas independientes.",
+          "La canibalización con souvenirs y camisetas mediterráneas se evita centrando esta pieza en camiseta local, tallaje, tejido, impresión, tienda física y riesgo de regalo."
+        ],
+        "content_decision": "Publicar listicle BOFU de 7 opciones, con respuesta directa, tabla de contenidos, comparativa, criterios de compra, 5 FAQs, enlaces internos reales, 4 fuentes externas y featured image original."
+      },
+      "sources": [
+        "https://peniscola.es/prepara-tu-viaje/compras-en-peniscola/",
+        "https://www.todopeniscola.com/index.php/tiendas-peniscola/tiendas-moda",
+        "https://www.redbubble.com/es/shop/de%2Bpeniscola",
+        "https://www.redbubble.com/es/shop/castellon",
+        "https://contornopeniscola.es/quienes-somos/",
+        "https://www.ocu.org/consumo-familia/consumo-colaborativo/informe/moda-sostenible"
+      ],
+      "internal_links": [
+        "/blog/mejores-camisetas-diseno-mediterraneo/",
+        "/blog/mejores-souvenirs-peniscola/",
+        "/blog/mejores-regalos-originales-peniscola/",
+        "/categoria-producto/accesorios/",
+        "/tienda/",
+        "/categoria-producto/camisetas/",
+        "/categoria-producto/sudaderas/",
+        "/contacto/"
+      ],
+      "featured_image": "/assets/mejores-camisetas-peniscola-editorial.jpg",
+      "verification": {
+        "build": "npm run build passed locally on 2026-07-28.",
+        "local_render": "Local dist HTTP verification passed on 2026-07-28: 1948 visible words; article, image, home, blog and sitemap returned 200; H1, canonical, OG image, Article schema, Breadcrumb schema, FAQ schema, home/blog index and sitemap present; 4 external links. Playwright/puppeteer unavailable in local project.",
+        "live": {
+          "status": "pending",
+          "url": "https://www.somosentremares.com/blog/mejores-camisetas-peniscola/"
         }
       }
     }
