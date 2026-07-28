@@ -427,11 +427,11 @@
       "slug": "mejores-camisetas-peniscola",
       "title": "Mejores camisetas de Peñíscola",
       "url": "https://www.somosentremares.com/blog/mejores-camisetas-peniscola/",
-      "status": "pending_verification",
+      "status": "published",
       "selected_at": "2026-07-28",
-      "pushed_at": "",
-      "published_at": "",
-      "commit_sha": "",
+      "pushed_at": "2026-07-28",
+      "published_at": "2026-07-28",
+      "commit_sha": "f99a19a65e0c1de90566a58ab834cda5f994fe65",
       "serp_target": "Google ES / Peñíscola y Castellón",
       "serp_observations": {
         "intent": "Comercial BOFU local: encontrar camisetas de Peñíscola para comprar como recuerdo, regalo o prenda de verano, comparando diseño, tejido, talla, tienda y utilidad real.",
@@ -470,8 +470,16 @@
         "build": "npm run build passed locally on 2026-07-28.",
         "local_render": "Local dist HTTP verification passed on 2026-07-28: 1948 visible words; article, image, home, blog and sitemap returned 200; H1, canonical, OG image, Article schema, Breadcrumb schema, FAQ schema, home/blog index and sitemap present; 4 external links. Playwright/puppeteer unavailable in local project.",
         "live": {
-          "status": "pending",
-          "url": "https://www.somosentremares.com/blog/mejores-camisetas-peniscola/"
+          "status": "verified",
+          "checked_at": "2026-07-28T15:55:54Z",
+          "url": "https://www.somosentremares.com/blog/mejores-camisetas-peniscola/",
+          "http_status": 200,
+          "h1": "Mejores camisetas de Peñíscola: 7 opciones para comprar con criterio",
+          "canonical": "https://www.somosentremares.com/blog/mejores-camisetas-peniscola/",
+          "featured_image": "https://www.somosentremares.com/assets/mejores-camisetas-peniscola-editorial.jpg",
+          "blog_index": true,
+          "home_index": true,
+          "sitemap": true
         }
       }
     }
