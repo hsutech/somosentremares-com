@@ -1,7 +1,7 @@
 {
   "domain": "somosentremares.com",
   "automation_id": "art-culo-diario-somosentremares-com",
-  "last_run_date": "2026-07-28",
+  "last_run_date": "2026-07-31",
   "items": [
     {
       "keyword": "mejores regalos originales de Peñíscola",
@@ -480,6 +480,66 @@
           "blog_index": true,
           "home_index": true,
           "sitemap": true
+        }
+      }
+    },
+    {
+      "keyword": "mejores recuerdos de viaje de Castellón",
+      "priority": "Alta",
+      "slug": "mejores-recuerdos-viaje-castellon",
+      "title": "Mejores recuerdos de viaje de Castellón",
+      "url": "https://www.somosentremares.com/blog/mejores-recuerdos-viaje-castellon/",
+      "status": "published",
+      "selected_at": "2026-07-29",
+      "pushed_at": "2026-07-31",
+      "published_at": "2026-07-31",
+      "commit_sha": "0bbefeaf318f4625054fa03f28af5c809a1b2eee",
+      "serp_target": "Google ES / Peñíscola y Castellón",
+      "serp_observations": {
+        "intent": "Comercial BOFU provincial: elegir recuerdos de viaje de Castellón comparando utilidad, autenticidad, transporte, fragilidad, destinatario y procedencia.",
+        "page_types": [
+          "Páginas turísticas y oficiales de compras/productos típicos de Castellón.",
+          "Páginas gastronómicas y rutas de producto local como Castelló Ruta de Sabor.",
+          "Páginas locales de entidades concretas como Morella Turística y Comunitat Valenciana para textil y alcachofa."
+        ],
+        "coverage_patterns": [
+          "Los resultados relevantes enumeran productos típicos y dónde comprarlos, pero comparan poco por uso real y riesgo de compra.",
+          "La cobertura actual favorece turismo, gastronomía y artesanía; hay hueco para una guía BOFU con tabla comparativa y criterios de maleta/destinatario.",
+          "La canibalización con souvenirs/regalos de Peñíscola se evita centrando la pieza en la provincia de Castellón y no solo en Peñíscola."
+        ],
+        "content_decision": "Publicar listicle BOFU de 10 ideas con respuesta directa, tabla de contenidos, comparativa, criterios de compra, 5 FAQs, 4 fuentes externas, enlaces internos reales y featured image original."
+      },
+      "sources": [
+        "https://www.castellon.travel/compras",
+        "https://www.morella.net/morellaturistica/artesania/la-manta-morellana/",
+        "https://www.comunitatvalenciana.com/es/inspirate/alcachofa-de-benicarlo",
+        "https://www.castellorutadesabor.es/"
+      ],
+      "internal_links": [
+        "/blog/mejores-souvenirs-peniscola/",
+        "/blog/mejores-regalos-originales-peniscola/",
+        "/categoria-producto/camisetas/",
+        "/categoria-producto/accesorios/",
+        "/tienda/",
+        "/contacto/"
+      ],
+      "featured_image": "/assets/mejores-recuerdos-viaje-castellon.jpg",
+      "verification": {
+        "build": "npm run build passed locally on 2026-07-31.",
+        "local_render": "Static dist verification passed on 2026-07-31: 2329 visible words; unique H1; expected canonical and OG image; Article, Breadcrumb and FAQ schema; 4 external sources; internal links; generated JPEG image; home/blog/sitemap presence. Playwright/puppeteer unavailable in local project.",
+        "live": {
+          "status": "verified",
+          "checked_at": "2026-07-31T15:51:00Z",
+          "url": "https://www.somosentremares.com/blog/mejores-recuerdos-viaje-castellon/",
+          "http_status": 200,
+          "h1": "Mejores recuerdos de viaje de Castellón: 10 ideas para comprar con criterio",
+          "canonical": "https://www.somosentremares.com/blog/mejores-recuerdos-viaje-castellon/",
+          "featured_image": "https://www.somosentremares.com/assets/mejores-recuerdos-viaje-castellon.jpg",
+          "blog_index": true,
+          "home_index": true,
+          "sitemap": true,
+          "desktop_render": "not_available_playwright_unavailable",
+          "mobile_render": "not_available_playwright_unavailable"
         }
       }
     }
