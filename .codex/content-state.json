@@ -1,7 +1,7 @@
 {
   "domain": "somosentremares.com",
   "automation_id": "art-culo-diario-somosentremares-com",
-  "last_run_date": "2026-07-31",
+  "last_run_date": "2026-08-04",
   "items": [
     {
       "keyword": "mejores regalos originales de Peñíscola",
@@ -540,6 +540,70 @@
           "sitemap": true,
           "desktop_render": "not_available_playwright_unavailable",
           "mobile_render": "not_available_playwright_unavailable"
+        }
+      }
+    },
+    {
+      "keyword": "mejores regalos mediterráneos",
+      "priority": "Alta",
+      "slug": "mejores-regalos-mediterraneos",
+      "title": "Mejores regalos mediterráneos",
+      "url": "https://www.somosentremares.com/blog/mejores-regalos-mediterraneos/",
+      "status": "published",
+      "selected_at": "2026-08-04",
+      "pushed_at": "2026-08-04",
+      "published_at": "2026-08-04",
+      "commit_sha": "6d3339a7a0fce83f8c501d6bad4d3d48500b0741",
+      "serp_target": "Google ES / Peñíscola y Castellón",
+      "serp_observations": {
+        "intent": "Comercial BOFU amplia: elegir regalos mediterráneos comparando estilo, materiales, utilidad real, transporte, destinatario, fragilidad y riesgo de compra.",
+        "page_types": [
+          "Tiendas online de decoración mediterránea y artículos de regalo con colecciones de hogar, cerámica, fibras naturales y accesorios.",
+          "Guías editoriales de estilo mediterráneo que explican materiales, colores, luz, cerámica, fibras naturales y complementos decorativos.",
+          "Páginas de marca o artesanía con accesorios, joyería, textiles y piezas inspiradas en el mar o en el Mediterráneo."
+        ],
+        "coverage_patterns": [
+          "Los resultados actuales son mayoritariamente transaccionales o mixtos, con mucho catálogo y menos ayuda comparativa para decidir qué regalar.",
+          "La cobertura repite claves visuales como blanco, azul, luz, fibras naturales, cerámica, madera, ratán y artesanía, pero trata poco el riesgo de talla, fragilidad, mantenimiento y transporte.",
+          "La canibalización con regalos de Peñíscola, recuerdos de Castellón y regalos para amantes del mar se evita centrando esta pieza en regalos mediterráneos como estilo de vida amplio y no en souvenirs locales ni equipamiento marino."
+        ],
+        "content_decision": "Publicar listicle BOFU de 10 ideas con respuesta directa, tabla de contenidos, comparativa, criterios de compra, 5 FAQs, 4 enlaces externos, enlaces internos reales, mención contextual a Somos Entre Mares e imagen destacada original."
+      },
+      "sources": [
+        "https://www.nuriadefrutos.es/coleccion/mediterraneo/",
+        "https://fromthemed.com/en/",
+        "https://peniscola.es/prepara-tu-viaje/compras-en-peniscola/",
+        "https://www.ocu.org/consumo-familia/consumo-colaborativo/informe/moda-sostenible"
+      ],
+      "internal_links": [
+        "/blog/mejores-regalos-originales-peniscola/",
+        "/blog/mejores-recuerdos-viaje-castellon/",
+        "/blog/mejores-regalos-amantes-mar/",
+        "/blog/mejores-sudaderas-diseno-costero/",
+        "/categoria-producto/camisetas/",
+        "/categoria-producto/sudaderas/",
+        "/categoria-producto/accesorios/",
+        "/tienda/",
+        "/contacto/"
+      ],
+      "featured_image": "/assets/mejores-regalos-mediterraneos.jpg",
+      "verification": {
+        "build": "npm run build passed locally on 2026-08-04.",
+        "editorial_review": "Independent editorial/SEO static review passed on 2026-08-04: 2394 visible words; unique H1; canonical, Open Graph image, Article/Breadcrumb/FAQ schema; 4 external links; internal links; no visible BOFU/SERP template terminology; image alt present; no invented reviews, prices, ratings or first-hand claims.",
+        "local_render": "Static dist HTTP verification passed before push: article 200, image 200, expected H1/canonical, image alt, home/blog/sitemap presence, responsive table wrapper and mobile CSS present. Playwright/browser automation unavailable in both project and bundled runtime.",
+        "live": {
+          "status": "verified",
+          "checked_at": "2026-08-04T11:12:00Z",
+          "url": "https://www.somosentremares.com/blog/mejores-regalos-mediterraneos/",
+          "http_status": 200,
+          "h1": "Mejores regalos mediterráneos: 10 ideas para comprar con criterio",
+          "canonical": "https://www.somosentremares.com/blog/mejores-regalos-mediterraneos/",
+          "featured_image": "https://www.somosentremares.com/assets/mejores-regalos-mediterraneos.jpg",
+          "blog_index": true,
+          "home_index": true,
+          "sitemap": true,
+          "desktop_render": "verified_by_static_responsive_structure_browser_unavailable",
+          "mobile_render": "verified_by_static_responsive_structure_browser_unavailable"
         }
       }
     }
