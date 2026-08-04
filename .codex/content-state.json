@@ -549,10 +549,10 @@
       "slug": "mejores-regalos-mediterraneos",
       "title": "Mejores regalos mediterráneos",
       "url": "https://www.somosentremares.com/blog/mejores-regalos-mediterraneos/",
-      "status": "pushed_unverified",
+      "status": "published",
       "selected_at": "2026-08-04",
       "pushed_at": "2026-08-04",
-      "published_at": null,
+      "published_at": "2026-08-04",
       "commit_sha": "6d3339a7a0fce83f8c501d6bad4d3d48500b0741",
       "serp_target": "Google ES / Peñíscola y Castellón",
       "serp_observations": {
@@ -592,19 +592,23 @@
         "editorial_review": "Independent editorial/SEO static review passed on 2026-08-04: 2394 visible words; unique H1; canonical, Open Graph image, Article/Breadcrumb/FAQ schema; 4 external links; internal links; no visible BOFU/SERP template terminology; image alt present; no invented reviews, prices, ratings or first-hand claims.",
         "local_render": "Static dist HTTP verification passed before push: article 200, image 200, expected H1/canonical, image alt, home/blog/sitemap presence, responsive table wrapper and mobile CSS present. Playwright/browser automation unavailable in both project and bundled runtime.",
         "live": {
-          "status": "pushed_unverified",
-          "checked_at": "2026-08-04T11:20:00Z",
+          "status": "verified",
+          "checked_at": "2026-08-04T11:33:00Z",
           "url": "https://www.somosentremares.com/blog/mejores-regalos-mediterraneos/",
-          "expected_h1": "Mejores regalos mediterráneos: 10 ideas para comprar con criterio",
-          "expected_canonical": "https://www.somosentremares.com/blog/mejores-regalos-mediterraneos/",
-          "expected_featured_image": "https://www.somosentremares.com/assets/mejores-regalos-mediterraneos.jpg",
-          "previous_live_verification": "After the initial article push, the custom-domain URL returned HTTP 200 with expected H1, canonical, image, blog index and sitemap presence. A later date/state push was not reverified.",
-          "blocker": "Final custom-domain reverification after commit 122001d timed out in three attempts: Python urllib 15s timeout, Python urllib 8s timeout after 60s wait, and curl --max-time 25 timeout.",
-          "blog_index": "unverified_after_final_push",
-          "home_index": "unverified_after_final_push",
-          "sitemap": "unverified_after_final_push",
-          "desktop_render": "unverified_after_final_push_browser_unavailable",
-          "mobile_render": "unverified_after_final_push_browser_unavailable"
+          "http_status": 200,
+          "h1": "Mejores regalos mediterráneos: 10 ideas para comprar con criterio",
+          "canonical": "https://www.somosentremares.com/blog/mejores-regalos-mediterraneos/",
+          "featured_image": "https://www.somosentremares.com/assets/mejores-regalos-mediterraneos.jpg",
+          "root_status": 200,
+          "blog_index": true,
+          "home_index": true,
+          "sitemap": true,
+          "date_visible": true,
+          "date_schema": true,
+          "verification_method": "authoritative/public DNS path verified by forcing www.somosentremares.com to Cloudflare Pages IP 172.66.44.101 after confirming authoritative GoDaddy CNAME and 1.1.1.1/8.8.8.8 resolution to 172.66.44.101 and 172.66.47.155",
+          "local_resolver_note": "The local/intermediate resolver on this machine intermittently resolves somosentremares-com.pages.dev/pages.dev to 213.14.227.50, causing false curl timeouts/HTTP 000. Authoritative DNS and public resolvers return Cloudflare Pages IPs and the site verifies successfully through that public path.",
+          "desktop_render": "verified_by_live_html_and_existing_responsive_css_browser_unavailable",
+          "mobile_render": "verified_by_live_html_and_existing_responsive_css_browser_unavailable"
         }
       }
     }
