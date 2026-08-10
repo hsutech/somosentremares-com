@@ -1,7 +1,7 @@
 {
   "domain": "somosentremares.com",
   "automation_id": "art-culo-diario-somosentremares-com",
-  "last_run_date": "2026-08-04",
+  "last_run_date": "2026-08-10",
   "items": [
     {
       "keyword": "mejores regalos originales de Peñíscola",
@@ -609,6 +609,78 @@
           "local_resolver_note": "The local/intermediate resolver on this machine intermittently resolves somosentremares-com.pages.dev/pages.dev to 213.14.227.50, causing false curl timeouts/HTTP 000. Authoritative DNS and public resolvers return Cloudflare Pages IPs and the site verifies successfully through that public path.",
           "desktop_render": "verified_by_live_html_and_existing_responsive_css_browser_unavailable",
           "mobile_render": "verified_by_live_html_and_existing_responsive_css_browser_unavailable"
+        }
+      }
+    },
+    {
+      "keyword": "tiendas de regalos en Peñíscola opiniones",
+      "priority": "Alta",
+      "slug": "tiendas-regalos-peniscola-opiniones",
+      "title": "Tiendas de regalos en Peñíscola opiniones",
+      "url": "https://www.somosentremares.com/blog/tiendas-regalos-peniscola-opiniones/",
+      "status": "skipped",
+      "selected_at": "2026-08-10",
+      "skipped_at": "2026-08-10",
+      "skip_reason": "Contenido ya publicado en origin/main y enlazado desde home, blog y sitemap; publicar otra pieza canibalizaría la intención.",
+      "serp_target": "Google ES / Peñíscola y Castellón"
+    },
+    {
+      "keyword": "dónde comprar souvenirs originales en Peñíscola",
+      "priority": "Media",
+      "slug": "donde-comprar-souvenirs-originales-peniscola",
+      "title": "Dónde comprar souvenirs originales en Peñíscola",
+      "url": "https://www.somosentremares.com/blog/donde-comprar-souvenirs-originales-peniscola/",
+      "status": "pushed_unverified",
+      "selected_at": "2026-08-10",
+      "pushed_at": "2026-08-10",
+      "commit_sha": "0b3ce2f",
+      "serp_target": "Google ES / Peñíscola y Castellón",
+      "serp_observations": {
+        "intent": "Local transaccional: el usuario quiere saber dónde comprar recuerdos originales en Peñíscola y cómo elegir zona/tienda antes de comprar.",
+        "page_types": [
+          "Página oficial turística de compras con zonas, categorías comerciales y mercado semanal.",
+          "Directorios locales de artículos de regalo, moda, cerámica, souvenirs y comercios con direcciones.",
+          "Páginas de comercios concretos que explican especialización en regalos, recuerdos, artesanía, gourmet o moda."
+        ],
+        "coverage_patterns": [
+          "Los resultados localizan comercios, pero no ordenan la ruta por zona, tipo de souvenir, transporte y riesgo de compra.",
+          "Existe canibalización potencial con mejores souvenirs y tiendas de regalos opiniones; se evitó centrando el artículo en dónde comprar y cómo planificar la ruta.",
+          "No se incluyó vídeo porque los resultados útiles son directorios/fuentes locales y un vídeo turístico genérico no mejora la decisión de compra."
+        ],
+        "content_decision": "Crear guía BOFU de 2.000 palabras con respuesta directa, tabla comparativa, zonas de compra, criterios verificables, 4 fuentes externas, enlaces internos reales y FAQPage."
+      },
+      "sources": [
+        "https://peniscola.es/prepara-tu-viaje/compras-en-peniscola/",
+        "https://www.paginasamarillas.es/a/articulos-de-regalo/castellon/pe%C3%B1iscola/",
+        "https://contornopeniscola.es/quienes-somos/",
+        "https://www.artesanialafleca.com/que-encontraras/",
+        "https://www.todopeniscola.com/tiendas-peniscola"
+      ],
+      "internal_links": [
+        "/blog/mejores-souvenirs-peniscola/",
+        "/blog/tiendas-regalos-peniscola-opiniones/",
+        "/blog/mejores-regalos-originales-peniscola/",
+        "/tienda/",
+        "/categoria-producto/camisetas/",
+        "/categoria-producto/sudaderas/",
+        "/categoria-producto/accesorios/",
+        "/contacto/"
+      ],
+      "featured_image": "/assets/donde-comprar-souvenirs-originales-peniscola.jpg",
+      "verification": {
+        "build": "npm ci --prefer-offline --no-audit passed; npm run build passed locally on 2026-08-10.",
+        "editorial_seo": "Static editorial/SEO check passed: 2017 visible words, unique H1, canonical, OG image, Article/Breadcrumb/FAQ schema JSON valid, 4 external links, internal links, image alt and image asset present, home/blog/sitemap references present.",
+        "local_render": "Local dist verification passed; Chrome headless checks passed desktop 1440px and mobile 390px with HTTP 200, expected H1, canonical, image loaded and no horizontal overflow.",
+        "live": {
+          "status": "pushed_unverified",
+          "checked_at": "2026-08-10T16:02:00Z",
+          "url": "https://www.somosentremares.com/blog/donde-comprar-souvenirs-originales-peniscola/",
+          "attempts": [
+            "Attempt 1: local DNS failure before reaching www.somosentremares.com.",
+            "Attempt 2 after 75s: URL returned HTTP 200 but served homepage HTML; expected article H1 missing.",
+            "Attempt 3 after 150s: request timed out before article verification."
+          ],
+          "blocker": "Cloudflare/custom-domain deployment could not be verified within the three-attempt operational limit; article commit is pushed but keyword is not marked published."
         }
       }
     }
