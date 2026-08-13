@@ -684,5 +684,62 @@
         }
       }
     }
+  ],
+  "lastUpdated": "2026-08-13",
+  "articles": [
+    {
+      "keyword": "zapatillas zero drop para viajar: qué mirar en ciudad, costa y senderos fáciles",
+      "priority": "Campaign",
+      "slug": "zapatillas-zero-drop-viajar",
+      "title": "Zapatillas zero drop para viajar: qué mirar en ciudad, costa y senderos fáciles",
+      "url": "https://www.somosentremares.com/blog/zapatillas-zero-drop-viajar/",
+      "language": "es",
+      "market": "Google ES",
+      "status": "prepared",
+      "publicationDate": "2026-08-13",
+      "publishedCommit": null,
+      "serpResearch": {
+        "date": "2026-08-13",
+        "queries": [
+          "Zapatillas zero drop para viajar: qué mirar en ciudad, costa y senderos fáciles"
+        ],
+        "observations": [
+          "SERP reviewed for intent, competing formats, entities, structure and content gaps.",
+          "Article differentiated for the source domain and its audience."
+        ],
+        "sources": [
+          "https://www.spain.info/es/destino/peniscola/",
+          "https://www.aemet.es/es/eltiempo/prediccion/municipios/peniscola-peniscola-id12089",
+          "https://www.footcaremd.org/resources/how-to-help/10-points-of-proper-shoe-fit"
+        ]
+      },
+      "content": {
+        "format": "editorial guide/comparison",
+        "targetWords": "1300-2200",
+        "internalLinks": [
+          "https://www.somosentremares.com/blog/calzado-caminar-peniscola/",
+          "https://www.somosentremares.com/blog/rutas-entre-playas/",
+          "https://www.somosentremares.com/blog/escapadas-junto-al-mar/",
+          "https://www.somosentremares.com/tienda/"
+        ],
+        "externalLinks": [
+          "https://barefootreview.com/es/blog/mejores-zapatillas-zero-drop-caminar",
+          "https://www.spain.info/es/destino/peniscola/",
+          "https://www.aemet.es/es/eltiempo/prediccion/municipios/peniscola-peniscola-id12089",
+          "https://www.footcaremd.org/resources/how-to-help/10-points-of-proper-shoe-fit"
+        ],
+        "featuredImage": "/assets/zapatillas-zero-drop-viajar.webp",
+        "featuredImageAlt": "Viajera caminando por un sendero de piedra junto al mar y una ciudad amurallada mediterránea",
+        "youtubeEmbed": null
+      },
+      "qa": {
+        "editorialSecondPass": "pending",
+        "build": "pending",
+        "localVerification": "pending",
+        "liveVerification": "pending",
+        "verifiedAt": null,
+        "verifiedChecks": []
+      }
+    }
   ]
 }
