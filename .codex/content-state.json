@@ -1,7 +1,7 @@
 {
   "domain": "somosentremares.com",
   "automation_id": "art-culo-diario-somosentremares-com",
-  "last_run_date": "2026-08-10",
+  "last_run_date": "2026-08-16",
   "items": [
     {
       "keyword": "mejores regalos originales de Peñíscola",
@@ -630,7 +630,7 @@
       "slug": "donde-comprar-souvenirs-originales-peniscola",
       "title": "Dónde comprar souvenirs originales en Peñíscola",
       "url": "https://www.somosentremares.com/blog/donde-comprar-souvenirs-originales-peniscola/",
-      "status": "pushed_unverified",
+      "status": "published",
       "selected_at": "2026-08-10",
       "pushed_at": "2026-08-10",
       "commit_sha": "0b3ce2f",
@@ -672,20 +672,89 @@
         "editorial_seo": "Static editorial/SEO check passed: 2017 visible words, unique H1, canonical, OG image, Article/Breadcrumb/FAQ schema JSON valid, 4 external links, internal links, image alt and image asset present, home/blog/sitemap references present.",
         "local_render": "Local dist verification passed; Chrome headless checks passed desktop 1440px and mobile 390px with HTTP 200, expected H1, canonical, image loaded and no horizontal overflow.",
         "live": {
-          "status": "pushed_unverified",
-          "checked_at": "2026-08-10T16:02:00Z",
+          "status": "verified",
+          "checked_at": "2026-08-16T18:04:00+02:00",
           "url": "https://www.somosentremares.com/blog/donde-comprar-souvenirs-originales-peniscola/",
+          "http_status": 200,
+          "h1": "Dónde comprar souvenirs originales en Peñíscola: zonas, tiendas y criterios para acertar",
+          "canonical": "https://www.somosentremares.com/blog/donde-comprar-souvenirs-originales-peniscola/",
+          "featured_image": "https://www.somosentremares.com/assets/donde-comprar-souvenirs-originales-peniscola.jpg",
+          "blog_index": true,
+          "home_index": true,
+          "sitemap": true,
+          "note": "Reconciled previous pushed_unverified state before selecting a new workbook keyword."
+        }
+      },
+      "published_at": "2026-08-16"
+    },
+    {
+      "keyword": "dónde comprar camisetas en Peñíscola",
+      "priority": "Media",
+      "slug": "donde-comprar-camisetas-peniscola",
+      "title": "Dónde comprar camisetas en Peñíscola",
+      "url": "https://www.somosentremares.com/blog/donde-comprar-camisetas-peniscola/",
+      "status": "published",
+      "selected_at": "2026-08-16",
+      "pushed_at": "2026-08-16",
+      "published_at": "2026-08-16",
+      "commit_sha": "e9c1d6826775b9416613c6114fd1dede417bbc09",
+      "serp_target": "Google ES / Peñíscola y Castellón",
+      "serp_observations": {
+        "intent": "Local transaccional BOFU: el usuario quiere saber dónde comprar camisetas en Peñíscola y cómo elegir zona, tienda, tejido, talla o personalización antes de comprar.",
+        "page_types": [
+          "Página oficial turística de compras con zonas comerciales, moda, complementos y mercado semanal.",
+          "Directorios de camisetas, estampación, moda y comercios locales con direcciones o fichas de negocio.",
+          "Listados locales de tiendas de moda y boutiques, con poco contenido editorial de decisión."
+        ],
+        "coverage_patterns": [
+          "Los resultados localizan opciones, pero no explican qué zona elegir según recuerdo, prenda usable, regalo, compra familiar o personalización.",
+          "Existe canibalización potencial con mejores camisetas de Peñíscola y camisetas de diseño mediterráneo; se evitó orientando esta pieza a dónde comprar y no a ranking de estilos.",
+          "No se incluyó vídeo porque la intención es de compra local verificable en tienda y un vídeo turístico genérico no mejora decisiones de talla, tejido o punto de venta."
+        ],
+        "content_decision": "Crear guía BOFU de 2.000 palabras con respuesta directa, tabla comparativa por intención, zonas de compra, criterios de calidad, 4 fuentes externas, enlaces internos reales y FAQPage."
+      },
+      "sources": [
+        "https://peniscola.es/prepara-tu-viaje/compras-en-peniscola/",
+        "https://www.qdq.com/a/camisetas/castellon/pe%C3%B1iscola",
+        "https://www.todopeniscola.com/index.php/tiendas-peniscola/tiendas-moda",
+        "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2022/ropaymedioambiente181122"
+      ],
+      "internal_links": [
+        "/blog/mejores-camisetas-peniscola/",
+        "/blog/mejores-camisetas-diseno-mediterraneo/",
+        "/blog/donde-comprar-souvenirs-originales-peniscola/",
+        "/tienda/",
+        "/categoria-producto/camisetas/",
+        "/contacto/"
+      ],
+      "featured_image": "/assets/donde-comprar-camisetas-peniscola.jpg",
+      "verification": {
+        "build": "npm ci --prefer-offline --no-audit passed; npm run build passed locally on 2026-08-16.",
+        "editorial_seo": "Second-pass editorial/SEO check passed: 2017 visible words, unique H1, canonical, OG image, Article/Breadcrumb/FAQ schema JSON valid, 4 external links, internal links, image alt/asset, no visible template or SERP jargon, and canibalization handled by where-to-buy intent.",
+        "local_render": "Local dist verification passed for article, image, home, blog and sitemap; Chrome headless desktop and mobile screenshots passed after CSS mobile overflow adjustment.",
+        "live": {
+          "status": "verified",
+          "checked_at": "2026-08-16T18:04:00+02:00",
+          "url": "https://www.somosentremares.com/blog/donde-comprar-camisetas-peniscola/",
+          "http_status": 200,
+          "h1": "Dónde comprar camisetas en Peñíscola: zonas, tiendas y criterios para acertar",
+          "canonical": "https://www.somosentremares.com/blog/donde-comprar-camisetas-peniscola/",
+          "featured_image": "https://www.somosentremares.com/assets/donde-comprar-camisetas-peniscola.jpg",
+          "blog_index": true,
+          "home_index": true,
+          "sitemap": true,
+          "desktop_render": true,
+          "mobile_render": true,
           "attempts": [
-            "Attempt 1: local DNS failure before reaching www.somosentremares.com.",
-            "Attempt 2 after 75s: URL returned HTTP 200 but served homepage HTML; expected article H1 missing.",
-            "Attempt 3 after 150s: request timed out before article verification."
-          ],
-          "blocker": "Cloudflare/custom-domain deployment could not be verified within the three-attempt operational limit; article commit is pushed but keyword is not marked published."
+            "Attempt 1 immediately after push: article URL returned HTTP 200 but served old homepage HTML; expected H1 missing.",
+            "Attempt 2 after 90s: article, H1, canonical, image, blog index, home and sitemap passed.",
+            "Attempt 3: Chrome headless live desktop and mobile screenshots passed."
+          ]
         }
       }
     }
   ],
-  "lastUpdated": "2026-08-13",
+  "lastUpdated": "2026-08-16",
   "articles": [
     {
       "keyword": "zapatillas zero drop para viajar: qué mirar en ciudad, costa y senderos fáciles",
