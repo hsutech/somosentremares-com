@@ -1,7 +1,7 @@
 {
   "domain": "somosentremares.com",
   "automation_id": "art-culo-diario-somosentremares-com",
-  "last_run_date": "2026-08-16",
+  "last_run_date": "2026-08-18",
   "items": [
     {
       "keyword": "mejores regalos originales de Peñíscola",
@@ -749,6 +749,71 @@
             "Attempt 1 immediately after push: article URL returned HTTP 200 but served old homepage HTML; expected H1 missing.",
             "Attempt 2 after 90s: article, H1, canonical, image, blog index, home and sitemap passed.",
             "Attempt 3: Chrome headless live desktop and mobile screenshots passed."
+          ]
+        }
+      }
+    },
+    {
+      "keyword": "souvenirs originales vs souvenirs típicos",
+      "priority": "Media",
+      "slug": "souvenirs-originales-vs-souvenirs-tipicos",
+      "title": "Souvenirs originales vs souvenirs típicos",
+      "url": "https://www.somosentremares.com/blog/souvenirs-originales-vs-souvenirs-tipicos/",
+      "status": "published",
+      "selected_at": "2026-08-18",
+      "published_at": "2026-08-18",
+      "commit_sha": "7e63f834fd093d279e94e01bd2626e7465e20b57",
+      "serp_target": "Google ES / Peñíscola y Castellón",
+      "serp_observations": {
+        "intent": "Comercial BOFU: comparar si conviene comprar un recuerdo típico o una alternativa original según destinatario, uso real, transporte, autenticidad y sostenibilidad práctica.",
+        "page_types": [
+          "Guías oficiales de turismo sobre souvenirs típicos y originales en España con ejemplos de gastronomía, moda, artesanía y objetos tradicionales.",
+          "Páginas oficiales de compras locales para Peñíscola y Castellón que validan comercio local, mercado semanal, moda, artesanía y productos de la provincia.",
+          "Artículos de viaje tipo listicle con ideas para ir más allá de imanes, llaveros o tazas, normalmente con autor visible e imágenes, pero poca comparativa de decisión."
+        ],
+        "coverage_patterns": [
+          "Los primeros resultados ofrecen ideas y listas, pero comparan poco entre souvenir típico y original por escenario de compra.",
+          "La cobertura local valida dónde y qué comprar, aunque no resuelve cuándo elegir un objeto clásico frente a una pieza más útil o duradera.",
+          "Hay potencial de canibalización con mejores souvenirs y dónde comprar souvenirs originales, resuelto enfocando esta pieza en comparativa transversal y criterios de decisión."
+        ],
+        "content_decision": "Publicar comparativa BOFU de 2.000 palabras, con respuesta directa, tabla por situaciones, criterios de compra, fuentes externas oficiales/de consumo, FAQs y mención discreta a Somos Entre Mares."
+      },
+      "sources": [
+        "https://www.spain.info/es/top/souvenirs-tipicos-originales-espana/",
+        "https://peniscola.es/prepara-tu-viaje/compras-en-peniscola/",
+        "https://www.castellon.travel/compras",
+        "https://www.ocu.org/consumo-familia/consumo-colaborativo/consejos/compra-sostenible"
+      ],
+      "internal_links": [
+        "/blog/mejores-souvenirs-peniscola/",
+        "/blog/donde-comprar-souvenirs-originales-peniscola/",
+        "/categoria-producto/camisetas/",
+        "/categoria-producto/accesorios/",
+        "/blog/mejores-recuerdos-viaje-castellon/",
+        "/blog/mejores-regalos-mediterraneos/"
+      ],
+      "featured_image": "/assets/souvenirs-originales-vs-souvenirs-tipicos.jpg",
+      "verification": {
+        "build": "npm ci --prefer-offline --no-audit passed; npm run build passed locally with Eleventy 3.1.6.",
+        "editorial_seo": "Static review passed: 2059 visible words, unique H1, title/meta/canonical/OG image, Article/Breadcrumb/FAQ schema JSON valid, 4 external links, 14 internal links, image alt/asset, no visible SERP/template placeholder text.",
+        "local_render": "Local HTTP verification passed for article, image, home, blog and sitemap. Chrome headless desktop 1440px and mobile 390px screenshots passed visually with expected H1 and image.",
+        "live": {
+          "status": "verified",
+          "checked_at": "2026-08-18T17:59:27+02:00",
+          "url": "https://www.somosentremares.com/blog/souvenirs-originales-vs-souvenirs-tipicos/",
+          "http_status": 200,
+          "h1": "Souvenirs originales vs souvenirs típicos: cuál comprar según el viaje, el regalo y el uso real",
+          "canonical": "https://www.somosentremares.com/blog/souvenirs-originales-vs-souvenirs-tipicos/",
+          "featured_image": "https://www.somosentremares.com/assets/souvenirs-originales-vs-souvenirs-tipicos.jpg",
+          "blog_index": true,
+          "home_index": true,
+          "sitemap": true,
+          "desktop_render": true,
+          "mobile_render": true,
+          "attempts": [
+            "Attempt 1: domain returned HTTP 200 but old content; new H1/canonical/image/blog/sitemap not yet propagated.",
+            "Attempt 2: HTTP/canonical/H1/image/home/blog/sitemap all passed.",
+            "Attempt 3: live Chrome headless desktop and mobile screenshots passed."
           ]
         }
       }
