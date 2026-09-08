@@ -893,8 +893,11 @@
       "url": "https://www.somosentremares.com/blog/generador-imagenes-ia-camisetas-mockups-honestos/",
       "language": "es",
       "market": "Google ES",
-      "status": "ready_for_publication",
+      "status": "published",
       "publicationDate": "2026-09-08",
+      "publishedAt": "2026-09-08T14:51:19Z",
+      "publicationCommit": "ea1dd5e",
+      "verificationCommit": "ea1dd5e",
       "serpResearch": {
         "date": "2026-09-08",
         "observations": [
@@ -923,14 +926,16 @@
         "editorialSecondPass": "passed",
         "build": "passed",
         "localVerification": "passed",
-        "liveVerification": "not_run",
-        "verifiedAt": "2026-09-08T15:30:00+02:00",
+        "liveVerification": "passed",
+        "verifiedAt": "2026-09-08T14:51:19Z",
         "verifiedChecks": [
           "One H1 and self-referencing canonical",
           "Article and FAQ JSON-LD parse",
           "Featured image loads",
           "Blog index and sitemap include article",
-          "Desktop and mobile visual QA passed; comparison table is contained"
+          "Desktop and mobile visual QA passed; comparison table is contained",
+          "GitHub Actions deployment 34240558333 passed",
+          "Custom-domain article returned HTTP 200 with expected title, canonical and featured image"
         ]
       }
     }
