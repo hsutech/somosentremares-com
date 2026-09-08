@@ -819,7 +819,7 @@
       }
     }
   ],
-  "lastUpdated": "2026-08-16",
+  "lastUpdated": "2026-09-08",
   "articles": [
     {
       "keyword": "zapatillas zero drop para viajar: qué mirar en ciudad, costa y senderos fáciles",
@@ -884,6 +884,55 @@
         ]
       },
       "commit": "984d8d3"
+    },
+    {
+      "keyword": "generador de imágenes IA para camisetas",
+      "priority": "High",
+      "slug": "generador-imagenes-ia-camisetas-mockups-honestos",
+      "title": "Cómo usar un generador de imágenes con IA para diseñar camisetas y crear mockups honestos",
+      "url": "https://www.somosentremares.com/blog/generador-imagenes-ia-camisetas-mockups-honestos/",
+      "language": "es",
+      "market": "Google ES",
+      "status": "ready_for_publication",
+      "publicationDate": "2026-09-08",
+      "serpResearch": {
+        "date": "2026-09-08",
+        "observations": [
+          "La SERP se centra en pasar de logo a mockup y omite con frecuencia la validación física.",
+          "El artículo separa concepto, archivo de impresión, muestra, mockup y fotografía final."
+        ],
+        "sources": [
+          "https://www.magnific.com/ai/docs/mockup-generator",
+          "https://support.google.com/merchants/answer/14743464?hl=es",
+          "https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems"
+        ]
+      },
+      "content": {
+        "format": "guía de diseño y producción",
+        "wordCount": 1759,
+        "internalLinks": [
+          "/categoria-producto/camisetas/",
+          "/categoria-producto/sudaderas/",
+          "/tienda/",
+          "/blog/mejores-camisetas-diseno-mediterraneo/"
+        ],
+        "featuredImage": "/assets/generador-imagenes-ia-camisetas-mockups.webp",
+        "featuredImageAlt": "Mesa mediterránea con camisetas lisas, bocetos gráficos, paleta de color y materiales de diseño"
+      },
+      "qa": {
+        "editorialSecondPass": "passed",
+        "build": "passed",
+        "localVerification": "passed",
+        "liveVerification": "not_run",
+        "verifiedAt": "2026-09-08T15:30:00+02:00",
+        "verifiedChecks": [
+          "One H1 and self-referencing canonical",
+          "Article and FAQ JSON-LD parse",
+          "Featured image loads",
+          "Blog index and sitemap include article",
+          "Desktop and mobile visual QA passed; comparison table is contained"
+        ]
+      }
     }
   ]
 }
