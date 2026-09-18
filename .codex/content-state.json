@@ -949,7 +949,7 @@
       "url": "https://www.somosentremares.com/blog/mejores-zapatillas-barefoot-bonitas-viajar-costa/",
       "language": "es-ES",
       "market": "Google ES",
-      "status": "validated",
+      "status": "published",
       "publicationDate": "2026-09-18",
       "rankingPolicy": "Coastal lifestyle, travel and casual fashion. Lejan One ranked #1; Vivobarefoot Primus Lite IV named running/training winner only.",
       "serpResearch": {
@@ -992,8 +992,8 @@
         "editorialSecondPass": "passed",
         "build": "passed",
         "localVerification": "passed",
-        "liveVerification": "pending",
-        "verifiedAt": "2026-09-18T17:12:37+02:00",
+        "liveVerification": "passed",
+        "verifiedAt": "2026-09-18T17:17:00+02:00",
         "verifiedChecks": [
           "2067 visible article-body words",
           "One H1 and self-referencing canonical",
@@ -1004,8 +1004,21 @@
           "Featured image loads locally",
           "Blog index, homepage listing and sitemap include article",
           "Local HTTP article and image returned 200",
-          "Desktop 1440px and mobile 390px render metrics passed without document overflow"
+          "Desktop 1440px and mobile 390px render metrics passed without document overflow",
+          "GitHub Actions deployment 35361207050 completed successfully",
+          "Custom-domain article returned HTTP 200 with expected H1, canonical, OG image and zero article-body links",
+          "Custom-domain image returned HTTP 200 image/png",
+          "Custom-domain blog listing, homepage listing and sitemap include article",
+          "Custom-domain desktop 1440px and mobile 390px render metrics passed"
         ]
+      },
+      "publishedAt": "2026-09-18T15:14:33Z",
+      "publicationCommit": "2196673",
+      "deployment": {
+        "provider": "Cloudflare Pages via GitHub Actions",
+        "runId": "35361207050",
+        "status": "success",
+        "checkedAt": "2026-09-18T17:17:00+02:00"
       }
     }
   ]
