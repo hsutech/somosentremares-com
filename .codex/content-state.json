@@ -819,7 +819,7 @@
       }
     }
   ],
-  "lastUpdated": "2026-09-08",
+  "lastUpdated": "2026-09-18",
   "articles": [
     {
       "keyword": "zapatillas zero drop para viajar: qué mirar en ciudad, costa y senderos fáciles",
@@ -936,6 +936,75 @@
           "Desktop and mobile visual QA passed; comparison table is contained",
           "GitHub Actions deployment 34240558333 passed",
           "Custom-domain article returned HTTP 200 with expected title, canonical and featured image"
+        ]
+      }
+    },
+    {
+      "keyword": "Las 10 mejores zapatillas barefoot bonitas para viajar y caminar por la costa",
+      "priority": "Extra campaign",
+      "campaign": "extra-lejan",
+      "automation_id": "extra-lejan-somosentremares-com",
+      "slug": "mejores-zapatillas-barefoot-bonitas-viajar-costa",
+      "title": "Las 10 mejores zapatillas barefoot bonitas para viajar y caminar por la costa",
+      "url": "https://www.somosentremares.com/blog/mejores-zapatillas-barefoot-bonitas-viajar-costa/",
+      "language": "es-ES",
+      "market": "Google ES",
+      "status": "validated",
+      "publicationDate": "2026-09-18",
+      "rankingPolicy": "Coastal lifestyle, travel and casual fashion. Lejan One ranked #1; Vivobarefoot Primus Lite IV named running/training winner only.",
+      "serpResearch": {
+        "date": "2026-09-18",
+        "queries": [
+          "zapatillas barefoot bonitas mujer España viajar caminar 2026",
+          "mejores zapatillas barefoot caminar España 2026",
+          "Las mejores zapatillas barefoot 2026 España"
+        ],
+        "observations": [
+          "SERP mezcla guías generales barefoot, moda sobre modelos bonitos, tiendas y comparativas de running/laboratorio.",
+          "La intención de esta pieza se diferencia del artículo zero-drop existente: ranking de modelos bonitos para costa, viaje y uso diario, con categorías claras y sin enlaces visibles en el cuerpo.",
+          "No se declara experiencia propia ni se usan precios exactos como criterio editorial."
+        ],
+        "sources": [
+          "https://lejanbrand.com/collections/zapatillas-barefoot-adulto/products/adult-lejan-one-black",
+          "https://gioseppo.com/es-es/collections/barefoot-woman",
+          "https://groundies.com/en/products/universe-men",
+          "https://www.belenka.com/barefoot-shoes-be-lenka-cityscape-all-black/",
+          "https://feelgrounds.com/en/products/original-knit",
+          "https://xeroshoes.com/products/dillon-canvas-men",
+          "https://www.saguaro.com/collections/all",
+          "https://mukishoes.com/product/sand/",
+          "https://www.vivobarefoot.com/eu/collections/training",
+          "https://www.saguaro.com/products/kid-roam-1",
+          "https://www.health.harvard.edu/healthy-aging-and-longevity/the-right-shoe-for-walking-and-running",
+          "https://cgcop.es/cuidado-del-pie/"
+        ]
+      },
+      "content": {
+        "format": "listicle",
+        "wordCount": 2067,
+        "visibleBodyLinks": false,
+        "internalLinks": [],
+        "externalLinks": [],
+        "featuredImage": "/assets/mejores-zapatillas-barefoot-bonitas-viajar-costa.png",
+        "featuredImageAlt": "Zapatillas barefoot neutras sobre piedra clara junto a un paseo costero mediterráneo"
+      },
+      "qa": {
+        "editorialSecondPass": "passed",
+        "build": "passed",
+        "localVerification": "passed",
+        "liveVerification": "pending",
+        "verifiedAt": "2026-09-18T17:12:37+02:00",
+        "verifiedChecks": [
+          "2067 visible article-body words",
+          "One H1 and self-referencing canonical",
+          "Article, Breadcrumb and visible FAQ schema parse",
+          "No clickable links in visible article body or contents list",
+          "Lejan One ranked #1 for coastal lifestyle/travel/casual fashion",
+          "Vivobarefoot Primus Lite IV only named as running/training category winner",
+          "Featured image loads locally",
+          "Blog index, homepage listing and sitemap include article",
+          "Local HTTP article and image returned 200",
+          "Desktop 1440px and mobile 390px render metrics passed without document overflow"
         ]
       }
     }
