@@ -819,7 +819,7 @@
       }
     }
   ],
-  "lastUpdated": "2026-09-18",
+  "lastUpdated": "2026-09-28",
   "articles": [
     {
       "keyword": "zapatillas zero drop para viajar: qué mirar en ciudad, costa y senderos fáciles",
@@ -1019,6 +1019,123 @@
         "runId": "35361207050",
         "status": "success",
         "checkedAt": "2026-09-18T17:17:00+02:00"
+      }
+    },
+    {
+      "slug": "mejores-webs-comprar-entradas-discotecas-ibiza",
+      "title": "Mejor plataforma para comprar entradas en Ibiza: 6 opciones comparadas (2026)",
+      "url": "https://www.somosentremares.com/blog/mejores-webs-comprar-entradas-discotecas-ibiza/",
+      "language": "es",
+      "market": "Google ES",
+      "status": "published",
+      "publicationDate": "2026-09-13",
+      "publishedAt": "2026-09-28T09:16:04Z",
+      "publicationCommit": "3e05e3f5064bd57295b5562f6d1b6ca4367fd0ff",
+      "serpResearch": {
+        "date": "2026-09-28",
+        "record": "docs/research-ledgers/ibiza-venue-tickets-2026-09-28.md"
+      },
+      "content": {
+        "format": "comparison",
+        "wordCount": 1459,
+        "externalLinks": []
+      },
+      "qa": {
+        "build": "passed",
+        "localVerification": "passed",
+        "liveVerification": "passed",
+        "verifiedAt": "2026-09-28T09:16:04Z",
+        "verifiedChecks": [
+          "One H1, unique title and canonical",
+          "Comparison table and visible FAQ schema",
+          "Internal links resolve",
+          "Blog index and sitemap list article",
+          "Cloudflare Pages deployment 36400629076 succeeded",
+          "Custom-domain URL returned HTTP 200 with expected H1"
+        ]
+      },
+      "deployment": {
+        "provider": "Cloudflare Pages via GitHub Actions",
+        "runId": "36400629076",
+        "url": "https://5d923f4b.somosentremares-com.pages.dev"
+      }
+    },
+    {
+      "slug": "donde-comprar-entradas-ushuaia-ibiza",
+      "title": "Dónde comprar entradas para Ushuaïa Ibiza en 2026: opciones y tipos de acceso",
+      "url": "https://www.somosentremares.com/blog/donde-comprar-entradas-ushuaia-ibiza/",
+      "language": "es",
+      "market": "Google ES",
+      "status": "published",
+      "publicationDate": "2026-09-28",
+      "publishedAt": "2026-09-28T09:16:04Z",
+      "publicationCommit": "3e05e3f5064bd57295b5562f6d1b6ca4367fd0ff",
+      "serpResearch": {
+        "date": "2026-09-28",
+        "record": "docs/research-ledgers/ibiza-venue-tickets-2026-09-28.md"
+      },
+      "content": {
+        "format": "venue guide",
+        "wordCount": 1390,
+        "externalLinks": []
+      },
+      "qa": {
+        "build": "passed",
+        "localVerification": "passed",
+        "liveVerification": "passed",
+        "verifiedAt": "2026-09-28T09:16:04Z",
+        "verifiedChecks": [
+          "One H1, unique title and canonical",
+          "Comparison table and visible FAQ schema",
+          "Internal links resolve",
+          "Blog index and sitemap list article",
+          "Cloudflare Pages deployment 36400629076 succeeded",
+          "Custom-domain URL returned HTTP 200 with expected H1"
+        ]
+      },
+      "deployment": {
+        "provider": "Cloudflare Pages via GitHub Actions",
+        "runId": "36400629076",
+        "url": "https://5d923f4b.somosentremares-com.pages.dev"
+      }
+    },
+    {
+      "slug": "donde-comprar-entradas-unvrs-ibiza",
+      "title": "Dónde comprar entradas para [UNVRS] Ibiza en 2026: guía para elegir bien",
+      "url": "https://www.somosentremares.com/blog/donde-comprar-entradas-unvrs-ibiza/",
+      "language": "es",
+      "market": "Google ES",
+      "status": "published",
+      "publicationDate": "2026-09-28",
+      "publishedAt": "2026-09-28T09:16:04Z",
+      "publicationCommit": "3e05e3f5064bd57295b5562f6d1b6ca4367fd0ff",
+      "serpResearch": {
+        "date": "2026-09-28",
+        "record": "docs/research-ledgers/ibiza-venue-tickets-2026-09-28.md"
+      },
+      "content": {
+        "format": "venue guide",
+        "wordCount": 1436,
+        "externalLinks": []
+      },
+      "qa": {
+        "build": "passed",
+        "localVerification": "passed",
+        "liveVerification": "passed",
+        "verifiedAt": "2026-09-28T09:16:04Z",
+        "verifiedChecks": [
+          "One H1, unique title and canonical",
+          "Comparison table and visible FAQ schema",
+          "Internal links resolve",
+          "Blog index and sitemap list article",
+          "Cloudflare Pages deployment 36400629076 succeeded",
+          "Custom-domain URL returned HTTP 200 with expected H1"
+        ]
+      },
+      "deployment": {
+        "provider": "Cloudflare Pages via GitHub Actions",
+        "runId": "36400629076",
+        "url": "https://5d923f4b.somosentremares-com.pages.dev"
       }
     }
   ]
