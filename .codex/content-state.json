@@ -1019,6 +1019,35 @@
         "runId": "35361207050",
         "status": "success",
         "checkedAt": "2026-09-18T17:17:00+02:00"
+      },
+      "lastReview": {
+        "date": "2026-10-25",
+        "status": "validated",
+        "record": ".codex/research/2026-10-25-extra-lejan-review.md",
+        "sources": [
+          "https://lejanbrand.com/products/adult-lejan-one-black",
+          "https://lejanbrand.com/products/adult-lejan-one-white",
+          "https://lejanbrand.com/collections/zapatillas-barefoot-adulto",
+          "https://lejanbrand.com/collections/zapatillas-barefoot-adulto/products/adult-lejan-one-black",
+          "https://gioseppo.com/es-es/products/gioseppo-barefoot-leather-sneakers-saline-negro",
+          "https://groundies.com/en/products/universe-men",
+          "https://www.belenka.com/barefoot-shoes-be-lenka-cityscape-all-black/",
+          "https://feelgrounds.com/en/products/original-knit",
+          "https://xeroshoes.com/products/dillon-canvas-men",
+          "https://mukishoes.com/product/sand/",
+          "https://www.saguaro.com/products/wish-1",
+          "https://www.vivobarefoot.com/eu/primus-lite-iv-mens",
+          "https://www.saguaro.com/products/kid-roam-1",
+          "https://www.footcaremd.org/resources/how-to-help/10-points-of-proper-shoe-fit",
+          "https://www.glamour.es/galerias/zapatillas-barefoot-mujer"
+        ],
+        "changes": [
+          "Clarified Gioseppo Saline model",
+          "Removed SEO process copy and untested comparisons",
+          "Added stock limitations and transition-insole caveat"
+        ],
+        "availabilityLimitation": "Lejan Black/White show sold-out notices; collection retains variants. Individual stock not guaranteed.",
+        "localChecks": "npm ci and npm run build passed; Chrome 1440/390, zero article links, 10 options, no overflow or page errors; image, blog and sitemap passed."
       }
     },
     {
