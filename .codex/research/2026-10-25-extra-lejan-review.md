@@ -34,3 +34,6 @@ Lejan collection has selectable One variants, but Black and White product-page t
 - Saguaro Kid Roam I: https://www.saguaro.com/products/kid-roam-1
 - FootCareMD shoe fit: https://www.footcaremd.org/resources/how-to-help/10-points-of-proper-shoe-fit
 - Glamour ES SERP competitor: https://www.glamour.es/galerias/zapatillas-barefoot-mujer
+
+## Publication verification
+Commit 5623ebf996b98acc7c131e50522dba53b2a6ce6d pushed to main. GitHub Actions 40224266151 succeeded. Custom-domain page returned 200 with 25 October review, one H1, correct canonical/OG, ten options, zero article links, loaded original image, valid schemas; blog and sitemap returned 200 and contain slug. Chrome 1440px/390px screenshots inspected; no overflow or page errors. 2,261 visible article words. Normal queue and unrelated state were compared against base and remain unchanged.

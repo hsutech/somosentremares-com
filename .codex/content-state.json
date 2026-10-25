@@ -1022,7 +1022,7 @@
       },
       "lastReview": {
         "date": "2026-10-25",
-        "status": "validated",
+        "status": "live_verified",
         "record": ".codex/research/2026-10-25-extra-lejan-review.md",
         "sources": [
           "https://lejanbrand.com/products/adult-lejan-one-black",
@@ -1047,7 +1047,68 @@
           "Added stock limitations and transition-insole caveat"
         ],
         "availabilityLimitation": "Lejan Black/White show sold-out notices; collection retains variants. Individual stock not guaranteed.",
-        "localChecks": "npm ci and npm run build passed; Chrome 1440/390, zero article links, 10 options, no overflow or page errors; image, blog and sitemap passed."
+        "localChecks": "npm ci and npm run build passed; Chrome 1440/390, zero article links, 10 options, no overflow or page errors; image, blog and sitemap passed.",
+        "commit": "5623ebf996b98acc7c131e50522dba53b2a6ce6d",
+        "verifiedAt": "2026-10-25T20:02:03.761580+00:00",
+        "deployment": {
+          "runId": "40224266151",
+          "status": "success"
+        },
+        "liveChecks": {
+          "390": {
+            "h1": [
+              "Las 10 mejores zapatillas barefoot bonitas para viajar y caminar por la costa"
+            ],
+            "canonical": "https://www.somosentremares.com/blog/mejores-zapatillas-barefoot-bonitas-viajar-costa/",
+            "og": "https://www.somosentremares.com/assets/mejores-zapatillas-barefoot-bonitas-viajar-costa.png",
+            "links": 0,
+            "words": 2261,
+            "overflow": false,
+            "image": 1672,
+            "schemas": [
+              "Article",
+              "BreadcrumbList",
+              "FAQPage"
+            ],
+            "revision": "Por Somos Entre Mares · Publicado el 18 de septiembre de 2026 · Revisado el 25 de octubre de 2026 · Lectura de 13 minutos",
+            "ranked": 10
+          },
+          "1440": {
+            "h1": [
+              "Las 10 mejores zapatillas barefoot bonitas para viajar y caminar por la costa"
+            ],
+            "canonical": "https://www.somosentremares.com/blog/mejores-zapatillas-barefoot-bonitas-viajar-costa/",
+            "og": "https://www.somosentremares.com/assets/mejores-zapatillas-barefoot-bonitas-viajar-costa.png",
+            "links": 0,
+            "words": 2261,
+            "overflow": false,
+            "image": 1672,
+            "schemas": [
+              "Article",
+              "BreadcrumbList",
+              "FAQPage"
+            ],
+            "revision": "Por Somos Entre Mares · Publicado el 18 de septiembre de 2026 · Revisado el 25 de octubre de 2026 · Lectura de 13 minutos",
+            "ranked": 10
+          },
+          "status": 200,
+          "url": "https://www.somosentremares.com/blog/mejores-zapatillas-barefoot-bonitas-viajar-costa/",
+          "errors": [],
+          "/blog/": {
+            "status": 200,
+            "type": "text/html; charset=utf-8",
+            "listed": true
+          },
+          "/sitemap.xml": {
+            "status": 200,
+            "type": "application/xml",
+            "listed": true
+          },
+          "/assets/mejores-zapatillas-barefoot-bonitas-viajar-costa.png": {
+            "status": 200,
+            "type": "image/png"
+          }
+        }
       }
     },
     {
