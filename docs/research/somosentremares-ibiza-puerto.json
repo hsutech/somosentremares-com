@@ -1,0 +1,32 @@
+{
+  "id": "somosentremares-ibiza-puerto",
+  "title": "Dónde salir en Ibiza ciudad si estás por el puerto y te apetece escuchar música",
+  "keyword": "dónde salir en Ibiza ciudad cerca del puerto",
+  "language": "es",
+  "checkedAt": "2026-11-04T12:26:45.594987+00:00",
+  "approvedSource": "https://github.com/hsutech/pbns/pull/21",
+  "sourceFile": "content/clubtickets-puerto-2026-11-03/somosentremares-com.md",
+  "sources": [
+    {
+      "url": "https://www.teatropereyraibiza.com/",
+      "type": "official",
+      "supports": [
+        "Theatre and cafe have distinct programming.",
+        "Tardeo on 7 November 2026 at 18:00; Porangui on 11 November 2026 at 20:00.",
+        "Address Comte de Rossello 3."
+      ]
+    },
+    {
+      "url": "https://chinois.com/contact-us/",
+      "type": "official",
+      "supports": [
+        "Within Ibiza Gran Hotel, Marina Botafoch; Passeig Joan Carles I 17."
+      ]
+    }
+  ],
+  "firsthandEvidence": [],
+  "editorialInference": "Conditional planning opinions in owner-approved prose, not claims of a documented visit. No historic photographer attribution.",
+  "presentation": "Existing site layout; approved prose unchanged and no article links. No generic or unrelated featured visual added.",
+  "timing": "Published on 4 November as explicitly requested; date-specific examples still upcoming.",
+  "state": "validated"
+}
