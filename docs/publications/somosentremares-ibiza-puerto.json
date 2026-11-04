@@ -1,0 +1,68 @@
+{
+  "id": "somosentremares-ibiza-puerto",
+  "domain": "somosentremares.com",
+  "title": "Dónde salir en Ibiza ciudad si estás por el puerto y te apetece escuchar música",
+  "url": "https://www.somosentremares.com/blog/donde-salir-ibiza-ciudad-puerto/",
+  "clientId": "clubbingtickets",
+  "language": "es",
+  "repository": "https://github.com/hsutech/somosentremares-com",
+  "sourcePath": "src/blog/donde-salir-ibiza-ciudad-puerto/index.html",
+  "canonicalSourcePath": "content/clubtickets-puerto-2026-11-03/somosentremares-com.md",
+  "publishedAt": "2026-11-04",
+  "commit": "b997282c4e39ea7713633df7ad063b52ce9c7140",
+  "deployment": "https://eeb1e4fe.somosentremares-com.pages.dev",
+  "deploymentId": "eeb1e4fe-48f2-4d2d-9743-754648227043",
+  "state": "live_verified",
+  "published": true,
+  "verifiedAt": "2026-11-04T12:31:20.741Z",
+  "checks": [
+    {
+      "kind": "production",
+      "url": "https://www.somosentremares.com/blog/donde-salir-ibiza-ciudad-puerto/",
+      "status": 200,
+      "finalUrl": "https://www.somosentremares.com/blog/donde-salir-ibiza-ciudad-puerto/",
+      "canonical": "https://www.somosentremares.com/blog/donde-salir-ibiza-ciudad-puerto/",
+      "mainMatches": true,
+      "mainSha256": "2e92c40b90b4d400dfc2531a8bd22c57b487c36a385a30e18080b75924547898",
+      "localMainSha256": "2e92c40b90b4d400dfc2531a8bd22c57b487c36a385a30e18080b75924547898"
+    },
+    {
+      "kind": "deployment",
+      "url": "https://eeb1e4fe.somosentremares-com.pages.dev/blog/donde-salir-ibiza-ciudad-puerto/",
+      "status": 200,
+      "finalUrl": "https://eeb1e4fe.somosentremares-com.pages.dev/blog/donde-salir-ibiza-ciudad-puerto/",
+      "canonical": "https://www.somosentremares.com/blog/donde-salir-ibiza-ciudad-puerto/",
+      "mainMatches": true,
+      "mainSha256": "2e92c40b90b4d400dfc2531a8bd22c57b487c36a385a30e18080b75924547898",
+      "localMainSha256": "2e92c40b90b4d400dfc2531a8bd22c57b487c36a385a30e18080b75924547898"
+    },
+    {
+      "kind": "apex",
+      "url": "https://somosentremares.com/blog/donde-salir-ibiza-ciudad-puerto/",
+      "status": 200,
+      "finalUrl": "https://somosentremares.com/blog/donde-salir-ibiza-ciudad-puerto/",
+      "canonical": "https://www.somosentremares.com/blog/donde-salir-ibiza-ciudad-puerto/",
+      "mainMatches": true,
+      "mainSha256": "2e92c40b90b4d400dfc2531a8bd22c57b487c36a385a30e18080b75924547898",
+      "localMainSha256": "2e92c40b90b4d400dfc2531a8bd22c57b487c36a385a30e18080b75924547898"
+    },
+    {
+      "kind": "blog",
+      "url": "https://www.somosentremares.com/blog/",
+      "status": 200,
+      "listed": true
+    },
+    {
+      "kind": "sitemap",
+      "url": "https://www.somosentremares.com/sitemap.xml",
+      "status": 200,
+      "listed": true
+    },
+    {
+      "kind": "robots",
+      "url": "https://www.somosentremares.com/robots.txt",
+      "status": 200,
+      "listed": true
+    }
+  ]
+}
