@@ -1020,6 +1020,13 @@
         "status": "success",
         "checkedAt": "2026-09-18T17:17:00+02:00"
       },
+      "availabilityReview": {
+        "date": "2026-11-12",
+        "replaced": "Mukishoes Sand (official product URL returned HTTP 404)",
+        "replacement": "Mukishoes Jasper Low, rank 7",
+        "source": "https://mukishoes.com/product/jasper-low/",
+        "availability": "Official variation data showed sizes 39 and 40 in stock at review time"
+      },
       "lastReview": {
         "date": "2026-10-25",
         "status": "live_verified",
