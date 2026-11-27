@@ -1,0 +1,19 @@
+{
+  "sourcePr": "https://github.com/hsutech/pbns/pull/31",
+  "approvedBodyPreserved": true,
+  "client": "clubtickets",
+  "domain": "somosentremares.com",
+  "url": "https://www.somosentremares.com/blog/presupuesto-salir-ibiza/",
+  "checks": {
+    "assignmentRegistry": true,
+    "liveAssignmentSheet": true,
+    "build": true,
+    "metadata": true,
+    "toc": true,
+    "bodyWords": 1369
+  },
+  "sources": [
+    "https://www.theushuaiaexperience.com/club/es/faq"
+  ],
+  "verifiedOn": "2026-11-27"
+}
